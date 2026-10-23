@@ -1,0 +1,1183 @@
+log_id,pid,pnum,group,task,condition,seq,log
+1,P1,1,E,1,"Code and Chat: text-based chat, attached image",1,Read through the INSTRUCTIONS.md file line by line
+2,P1,1,E,1,"Code and Chat: text-based chat, attached image",2,"opened and skimmed the srs.md and felt it’s a very long documents, she wanted to share to the AI"
+3,P1,1,E,1,"Code and Chat: text-based chat, attached image",3,opened the Figma wireframe and skimmed the UIs design
+4,P1,1,E,1,"Code and Chat: text-based chat, attached image",4,went back to read the INSTRUCTIONS.md file and tried to understand the task
+5,P1,1,E,1,"Code and Chat: text-based chat, attached image",5,copied and pasted the srs.md contents as prompts and entered to the AI
+6,P1,1,E,1,"Code and Chat: text-based chat, attached image",6,skimmed the responses from the AI about the srs.md contents
+7,P1,1,E,1,"Code and Chat: text-based chat, attached image",7,took a screenshot of whole UI design as one image in the Figma and passed it to the AI and asked it to do a wireframe check against the image
+8,P1,1,E,1,"Code and Chat: text-based chat, attached image",8,copied and pasted what the AI replied with to the REPORT1.md without formatting the problem reports in the table
+9,P1,1,E,1,"Code and Chat: text-based chat, attached image",9,asked the AI to give her the summary regarding the problem report of SRS
+10,P1,1,E,1,"Code and Chat: text-based chat, attached image",10,then asked the AI to give her a markdown file format (without passing the REPORT1.md)
+11,P1,1,E,1,"Code and Chat: text-based chat, attached image",11,copied and pasted the response for the markdown contents into the REPORT1.md file without checking
+12,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,1,read and skimmed the INSTRUCTIONS.md and tried to understand the goal of the task
+13,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,2,followed the instructions to start the server and run the app
+14,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,3,read the instructions in the INSTRUCTIONS.md again and decide to interact with the application
+15,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,4,she wanted to try the Real Time this time and asked AI to help reviewing
+16,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,5,copied and pasted the example prompt (in the INSTRUCTIONS.md) to the AI
+17,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,6,"shared her screen to the AI while interacting with the app and used the feature, and asked AI to help her find any problems"
+18,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,7,"she used the application (e.g., viewed the event listing page, registered an event, etc.)"
+19,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,8,"asked the AI whether it can see her screen and no reply, she went back to the AI and found the screensharing is interrupted, so she resumed the screensharing"
+20,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,9,asked AI whether it can see her screen to confirm
+21,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,10,showed the event detail page to the AI and asked it to find any issue there
+22,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,11,continued asking whether AI can see any problem
+23,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,12,asked AI whether it can see two Register Now buttons there
+24,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,13,asked the AI to record the two Register Now buttons issue
+25,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,14,went to the event listing page and used the filter and search feature and asked whether it can spot any issues
+26,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,15,went to the INSTRUCTIONS.md file and showed the 10 heuristic table to the AI for contexts
+27,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,16,then showed the REPORT2.md to the AI and asked the AI to report the four problems to her
+28,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,17,copied and pasted the format of the given example in the REPORT2.md as a format reference to the AI and asked it to report the problems following the format
+29,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,18,realized that the voice interaction feature does not work for formatted response
+30,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,19,copied the report issues and the report format and switched to Code and Chat
+31,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,20,pasted the contents as prompt and asked for problems report
+32,P1,1,E,2,Real Time: live screen sharing with voice interaction & Code and Chat: text-base chat,21,copied and pasted the problem into the table that is not in the markdown format without checking
+33,P1,1,E,3,Code and Chat: file upload and text-based chat,1,read the INSTRUCTIONS.md file line by line to understand the task
+34,P1,1,E,3,Code and Chat: file upload and text-based chat,2,browsed and opened the relative coding files .js and .css files in the file structure folder
+35,P1,1,E,3,Code and Chat: file upload and text-based chat,3,"followed the instructions to start the server, run the app, and registered events"
+36,P1,1,E,3,Code and Chat: file upload and text-based chat,4,opened and downloaded the design mockup PDF
+37,P1,1,E,3,Code and Chat: file upload and text-based chat,5,skimmed the design in the PDF
+38,P1,1,E,3,Code and Chat: file upload and text-based chat,6,read the INSTRUCTIONS.md again to locate the coding files and opened the MyRegistrationView.js file
+39,P1,1,E,3,Code and Chat: file upload and text-based chat,7,"used the code and chat, uploaded the design mockup PDF and asked it to make changes to the .js file to implement the feature, then copied and pasted the .js code"
+40,P1,1,E,3,Code and Chat: file upload and text-based chat,8,confirmed with AI to ask whether that updated js code is the whole script so she can replace it to the whole original version
+41,P1,1,E,3,Code and Chat: file upload and text-based chat,9,copied and pasted the .js code into the MyRegistrationView.js
+42,P1,1,E,3,Code and Chat: file upload and text-based chat,10,opened and copied and pasted the components.css file to the AI and asked for update for the feature implementation
+43,P1,1,E,3,Code and Chat: file upload and text-based chat,11,copied and pasted the .css code
+44,P1,1,E,3,Code and Chat: file upload and text-based chat,12,refreshed the app and checked the feature against the design mockup
+45,P1,1,E,3,Code and Chat: file upload and text-based chat,13,tested the feature end-to-end against the design mockup feature
+46,P2,2,C,1,Code and chat: text-based chat,1,read and skimmed the INSTRUCTIONS.md
+47,P2,2,C,1,Code and chat: text-based chat,2,opened the Figma wireframe design and scrolled through
+48,P2,2,C,1,Code and chat: text-based chat,3,copied and pasted the example prompt and the contents in the srs.md into the AI
+49,P2,2,C,1,Code and chat: text-based chat,4,"splitted the windows into two, left side is the wireframe and right side is the Google AI Studio"
+50,P2,2,C,1,Code and chat: text-based chat,5,skimmed through the srs.md contents to understand the requirements and checked it against the wireframe back and forth to try to find a mismatch
+51,P2,2,C,1,Code and chat: text-based chat,6,went back to the AI and checked on the potential gaps/problems proposed by the AI and found that FAQ could be a problem
+52,P2,2,C,1,Code and chat: text-based chat,7,went back to the srs.md to locate the requirement that mention the FAQ and checked it against the wireframe
+53,P2,2,C,1,Code and chat: text-based chat,8,fill out the first mismatch (missing FAQ) in the REPROT1.md file himself and checked the srs.md back and forth
+54,P2,2,C,1,Code and chat: text-based chat,9,filled in the wrong markdown format and continued fix the wrong format
+55,P2,2,C,1,Code and chat: text-based chat,10,continued checked the srs.md against the wireframe design and tried to find another problem back and forth and found that it misses the text search feature
+56,P2,2,C,1,Code and chat: text-based chat,11,"checked the srs.md and wireframe again to find the third problem, the phone number is not marked as optional"
+57,P2,2,C,1,Code and chat: text-based chat,12,went back to the REPORT1.md file and filled in the second and the third problem in the table by himself
+58,P2,2,C,1,Code and chat: text-based chat,13,time is up and didn’t finished the report
+59,P2,2,C,2,Code and chat: text-based chat,1,read the INSTRUCTIONS.md file
+60,P2,2,C,2,Code and chat: text-based chat,2,followed the instructions to start the server and run the application
+61,P2,2,C,2,Code and chat: text-based chat,3,split the windows into two with left side the app and right side the codebase repository
+62,P2,2,C,2,Code and chat: text-based chat,4,asked the AI to help tim review usability issues of the eventconnect app and copied and pasted the 10 heuristics table from the INSTRUCTIONS.md file to the AI for contexts
+63,P2,2,C,2,Code and chat: text-based chat,5,"interacted with the app (e.g., browsed the event listing and event details pages)"
+64,P2,2,C,2,Code and chat: text-based chat,6,checked the contents generated by the AI
+65,P2,2,C,2,Code and chat: text-based chat,7,skimmed the 10 heuristics table roughly
+66,P2,2,C,2,Code and chat: text-based chat,8,opened the note pad to on the other monitor to take down the problems he finds later
+67,P2,2,C,2,Code and chat: text-based chat,9,"continued using the app, found two Register Now buttons and noted that down"
+68,P2,2,C,2,Code and chat: text-based chat,10,tried registering an event and found a usability problem
+69,P2,2,C,2,Code and chat: text-based chat,11,he found that the phone number accept incorrect format and noted that down
+70,P2,2,C,2,Code and chat: text-based chat,12,in the registration step 3 he found that the dietary preferences selections might contradict and noted that down
+71,P2,2,C,2,Code and chat: text-based chat,13,tried to match the heuristic type to the problems that he found by reading through the 10 heuristic table
+72,P2,2,C,2,Code and chat: text-based chat,14,continued using the filter and search feature and tried to register an event again
+73,P2,2,C,2,Code and chat: text-based chat,15,he found that he can registered an event twice and noted that down
+74,P2,2,C,2,Code and chat: text-based chat,16,directly copied and pasted the formatted notes (missing some items) he wrote down into the REPORT2.md
+75,P2,2,C,3,Code and Chat: text-based chat,1,read the INSTRUCTIONS.md file
+76,P2,2,C,3,Code and Chat: text-based chat,2,followed the instructions to start survey and run the app
+77,P2,2,C,3,Code and Chat: text-based chat,3,downloaded the design mockup PDF and scrolled through to skim
+78,P2,2,C,3,Code and Chat: text-based chat,4,copied and pasted the Background section from the INSTRUCTIONS.md file into the AI for contexts and prompted that he needs to implement a feature
+79,P2,2,C,3,Code and Chat: text-based chat,5,split the windows into two with left is the design mockup and right is the Google AI Studio
+80,P2,2,C,3,Code and Chat: text-based chat,6,added more contexts to the AI by describing the feature in each wireframe UIs in the design PDF in texts and checked the design mockup back and forth
+81,P2,2,C,3,Code and Chat: text-based chat,7,copsed the pasted the .js and .css source code to the AI for more contexts to ask for update
+82,P2,2,C,3,Code and Chat: text-based chat,8,copied and pasted the updated code into the coding source files
+83,P2,2,C,3,Code and Chat: text-based chat,9,registered events to try to test the feature
+84,P2,2,C,3,Code and Chat: text-based chat,10,he found the functionality is working but the style of the elements do not match the design
+85,P2,2,C,3,Code and Chat: text-based chat,11,prompted the AI with more information to describe the changes of the visual styling and asked for update
+86,P2,2,C,3,Code and Chat: text-based chat,12,copied and pasted the updated code to the .css file and refreshed the page to check the feature
+87,P2,2,C,3,Code and Chat: text-based chat,13,tested the feature end-to-end
+88,P3,3,E,1,Real Time : live screen sharing with voice interaction,1,read the INSTRUCTIONS.dm file
+89,P3,3,E,1,Real Time : live screen sharing with voice interaction,2,opened the srs.md and read and scrolled through it
+90,P3,3,E,1,Real Time : live screen sharing with voice interaction,3,continued skimmed the srs.md
+91,P3,3,E,1,Real Time : live screen sharing with voice interaction,4,opened REPORT1.mf file and skimmed through it
+92,P3,3,E,1,Real Time : live screen sharing with voice interaction,5,opened the Figma wireframe design
+93,P3,3,E,1,Real Time : live screen sharing with voice interaction,6,started the voice interaction
+94,P3,3,E,1,Real Time : live screen sharing with voice interaction,7,wanted to show the Functional Requirements inside the srs.md to the AI and asked it to help her review the requirements
+95,P3,3,E,1,Real Time : live screen sharing with voice interaction,8,realized that she only turned on the voice interaction without sharing screen
+96,P3,3,E,1,Real Time : live screen sharing with voice interaction,9,she stopped the voice interaction and started live screen sharing and shared the entire screen
+97,P3,3,E,1,Real Time : live screen sharing with voice interaction,10,showed the entire srs.md and the wireframe UIs in the Figma document by scrolling through to the AI
+98,P3,3,E,1,Real Time : live screen sharing with voice interaction,11,the AI replied with one requirement mismatch (missing search bar) and she paused the live mode and went to the REPORT1.md file to write it down by herself
+99,P3,3,E,1,Real Time : live screen sharing with voice interaction,12,the live mode was stopped and she resumed it
+100,P3,3,E,1,Real Time : live screen sharing with voice interaction,13,continued asked the AI to checked the second UI wireframe design against the srs.md to find another problem
+101,P3,3,E,1,Real Time : live screen sharing with voice interaction,14,"the AI replied with the 2nd problem (lacks a preferences step 2 section), and she again paused the live mode and reported that down into the REPORT1.md file herself"
+102,P3,3,E,1,Real Time : live screen sharing with voice interaction,15,resumed the live mode and the AI also found that the top navigation bar is also inconsistent and she paused the live mode and reported that down by herself
+103,P3,3,E,1,Real Time : live screen sharing with voice interaction,16,"resumed the live mode and asked for the last mismatch, the AI gave her one but it seems like she don’t want it and asked it to give another"
+104,P3,3,E,1,Real Time : live screen sharing with voice interaction,17,the AI replied with the lack of FAQ feature across all the screens and she reported that down by herself
+105,P3,3,E,2,Real Time: live screen sharing with voice,1,read and skimmed the INSTRUCTIONS.md
+106,P3,3,E,2,Real Time: live screen sharing with voice,2,followed the instructions to start the server and run the application
+107,P3,3,E,2,Real Time: live screen sharing with voice,3,read the suggested flow in the INSTRUCTIONS.md file and interacted with the application
+108,P3,3,E,2,Real Time: live screen sharing with voice,4,opened the event detail page and found that there are two register now buttons herself
+109,P3,3,E,2,Real Time: live screen sharing with voice,5,refreshed the event detail page and tried to register and cancel an event
+110,P3,3,E,2,Real Time: live screen sharing with voice,6,checked the About and FAQ pages quickly
+111,P3,3,E,2,Real Time: live screen sharing with voice,7,used the text search feature and checked all event detail page one by one
+112,P3,3,E,2,Real Time: live screen sharing with voice,8,started voice interaction and told AI that what she needed to do (she has an app prototype and she needs match whether the UIs is good and meet the 10 heuristics)
+113,P3,3,E,2,Real Time: live screen sharing with voice,9,want to show the 10 heuristics table and REPORT2.md to the AI
+114,P3,3,E,2,Real Time: live screen sharing with voice,10,"shared the entire screen and asked the AI whether it can see the 10 heuristics table, and still didn’t work"
+115,P3,3,E,2,Real Time: live screen sharing with voice,11,"she terminated the current conversation and started a new live screen sharing and asked whether it can see her screen, but the AI replied with another language other than the English"
+116,P3,3,E,2,Real Time: live screen sharing with voice,12,she restarted a new one and tested it
+117,P3,3,E,2,Real Time: live screen sharing with voice,13,repeated the showcases of the task materials to the AI again using the screen sharing
+118,P3,3,E,2,Real Time: live screen sharing with voice,14,"used the application such as browsed each page, registered events"
+119,P3,3,E,2,Real Time: live screen sharing with voice,15,"the AI replied her with the potential usability problems (two register now buttons, registration step 2 preferences multi-select options, add to calendar button is not working, and two FAQ buttons)"
+120,P3,3,E,2,Real Time: live screen sharing with voice,16,paused the live mode and reported all problems into the REPORT2.md by writing down herself while checked the application back and forth to confirm
+121,P3,3,E,2,Real Time: live screen sharing with voice,17,didn’t have time to finish the last one
+122,P3,3,E,3,"Real Time: live screen sharing with voice, Code",1,read and skimmed the INSTRUCTIONS.md
+123,P3,3,E,3,"Real Time: live screen sharing with voice, Code",2,"followed the instructions to start the server, run the app, and registered events"
+124,P3,3,E,3,"Real Time: live screen sharing with voice, Code",3,opened design mockup PDF
+125,P3,3,E,3,"Real Time: live screen sharing with voice, Code",4,read the instructions.md again and opened the source files that she needed to edit
+126,P3,3,E,3,"Real Time: live screen sharing with voice, Code",5,started sharing the screen with the AI and told it that what she needed to do (implement a feature of the multiselect function) and showed the design mockup PDF by scrolling down to the AI
+127,P3,3,E,3,"Real Time: live screen sharing with voice, Code",6,showed the MyRegistrationView.js to the AI and asked it how she can started for implementing the feature
+128,P3,3,E,3,"Real Time: live screen sharing with voice, Code",7,"the AI replied with some pieces of code, and she asked it to replied as a text so she can copy and paste"
+129,P3,3,E,3,"Real Time: live screen sharing with voice, Code",8,"the AI replied with one line of js code, she copied and pasted the line into the js file"
+130,P3,3,E,3,"Real Time: live screen sharing with voice, Code",9,then the AI asked it to also applied the css style regarding that component in the js file
+131,P3,3,E,3,"Real Time: live screen sharing with voice, Code",10,she asked the AI to give her the code directly and she can copy and paste it to the corresponding place in the css
+132,P3,3,E,3,"Real Time: live screen sharing with voice, Code",11,"after completed a couple line of code, she went back to the application and refreshed the page and found nothing update on the feature"
+133,P3,3,E,3,"Real Time: live screen sharing with voice, Code",12,continued the same flow with talking to the AI and added couple lines of code in the js file
+134,P3,3,E,3,"Real Time: live screen sharing with voice, Code",13,the AI kept asking her to move around the source code
+135,P3,3,E,3,"Real Time: live screen sharing with voice, Code",14,refreshed the page and the checkboxes are updated in the registered event cards but wrong place
+136,P3,3,E,3,"Real Time: live screen sharing with voice, Code",15,she asked the AI to how to change the code to fix the position
+137,P3,3,E,3,"Real Time: live screen sharing with voice, Code",16,she updated the code generated from the AI and check the update
+138,P3,3,E,3,"Real Time: live screen sharing with voice, Code",17,then she asked the AI to help her implement the Select All element by showing the design mockup to the AI
+139,P3,3,E,3,"Real Time: live screen sharing with voice, Code",18,"the AI replied with a chunk of code, she copied ans pasted the code in the js file and tried to fix the format"
+140,P3,3,E,3,"Real Time: live screen sharing with voice, Code",19,"time ups and refreshed the page and found that the MyRegisteration page is blank, it seems it’s borken"
+141,P4,4,C,1,Code and Chat: text-based chat,1,read the INSTRUCTIONS.md upper part of the content line by line
+142,P4,4,C,1,Code and Chat: text-based chat,2,opened the Figma design
+143,P4,4,C,1,Code and Chat: text-based chat,3,opened the srs.md file and skimmed through it
+144,P4,4,C,1,Code and Chat: text-based chat,4,split the windows into two with left side the srs.md and right side the wireframe design
+145,P4,4,C,1,Code and Chat: text-based chat,5,read through the srs.md requirements line by line and checked it against the wireframe UIs one by one and tried to find a problem
+146,P4,4,C,1,Code and Chat: text-based chat,6,tried to understand the workflow between each screen
+147,P4,4,C,1,Code and Chat: text-based chat,7,read the use stories against the wireframe and found there’s no search function in the wireframe
+148,P4,4,C,1,Code and Chat: text-based chat,8,continued read through the srs.md and compared it to the wireframe
+149,P4,4,C,1,Code and Chat: text-based chat,9,copied and pasted the example given in the REPORT1.md file as a markdown format
+150,P4,4,C,1,Code and Chat: text-based chat,10,copied and pasted the functional requirements for more contexts to the AI
+151,P4,4,C,1,Code and Chat: text-based chat,11,"then he wrote down the problems behind the requirements that has problem (e.g., R1 - there should be another option for the search event in the nav bar, etc.)"
+152,P4,4,C,1,Code and Chat: text-based chat,12,in total he wrote down 5-6 problems in the prompt and entered to the AI
+153,P4,4,C,1,Code and Chat: text-based chat,13,the AI generated report in a markdown file with the problems he found
+154,P4,4,C,1,Code and Chat: text-based chat,14,he copied and pasted it into REPORT1.md without further checking
+155,P4,4,C,2,Code and Chat: text-based chat,1,read and skimmed the INSTRUCTIONS.md file
+156,P4,4,C,2,Code and Chat: text-based chat,2,followed the instructions to start the server and run and application
+157,P4,4,C,2,Code and Chat: text-based chat,3,read the INSTRUCTIONS.md and skimmed the 10 heuristic table examples quickly
+158,P4,4,C,2,Code and Chat: text-based chat,4,copied and pasted the the 10 heuristics to the AI as prompt and asked it to report the problems following this heuristic and the same format
+159,P4,4,C,2,Code and Chat: text-based chat,5,split the windows into two with left the project repo and right the application
+160,P4,4,C,2,Code and Chat: text-based chat,6,interacted with the application and used the feature
+161,P4,4,C,2,Code and Chat: text-based chat,7,opened the event detail page and found there are two register now buttons and he reported that down under the H1 example in the prompt
+162,P4,4,C,2,Code and Chat: text-based chat,8,"tried to register events and found that there’s no food options in the preferences, he reported that down under the H2 heuristic"
+163,P4,4,C,2,Code and Chat: text-based chat,9,checked the My Registration page and found that there’s option he can edit the information for the registered event and reported that down under H8
+164,P4,4,C,2,Code and Chat: text-based chat,10,he found the Add to calendar button doesn’t work and reported that down under the H4
+165,P4,4,C,2,Code and Chat: text-based chat,11,continued using the app by checking the FAQ page
+166,P4,4,C,2,Code and Chat: text-based chat,12,tried to register another event and under the H2 he reported the problem of privacy that everyone can see the other registered attendee and the problem of payment information should be exposed early
+167,P4,4,C,2,Code and Chat: text-based chat,13,checked the About page and under the H1 he reported that no registration fee information upfront
+168,P4,4,C,2,Code and Chat: text-based chat,14,he wrapped the notes and entered to the AI
+169,P4,4,C,2,Code and Chat: text-based chat,15,"copied and pasted the table generated by the AI and found that the REPORT2.md format is different from the REPORT1.md, he copied and pasted the REPORT2.md format to the AI and asked it to regenerate the table following the format"
+170,P4,4,C,2,Code and Chat: text-based chat,16,copied and pasted the table into the report without further checking
+171,P4,4,C,2,Code and Chat: text-based chat,17,read the INSTRUCTIONS.md to make sure he did everything
+172,P4,4,C,3,Code and Chat: text-based chat,1,"read the INSTRUCTIONS.md and followed the instructions to start the server, run the application and registered events"
+173,P4,4,C,3,Code and Chat: text-based chat,2,downloaded the design mockup PDF
+174,P4,4,C,3,Code and Chat: text-based chat,3,read the INSTRUCTIONS.md and opened the .js and .css files
+175,P4,4,C,3,Code and Chat: text-based chat,4,split the windows into two with the left side the project repository and right side the application
+176,P4,4,C,3,Code and Chat: text-based chat,5,"copied and pasted the js source code, the example prompt, and describe the feature he needed to implement in one sentence to the AI in the chat and entered"
+177,P4,4,C,3,Code and Chat: text-based chat,6,copied and pasted the updated js code and refreshed the page and found that the update feature is showing but not looks like the design
+178,P4,4,C,3,Code and Chat: text-based chat,7,he checked the design mockup and described the elements of the feature back and forth
+179,P4,4,C,3,Code and Chat: text-based chat,8,copied and pasted the js code and refreshed the page and see the feature is updated (looks good but not the same as the mockup design)
+180,P4,4,C,3,Code and Chat: text-based chat,9,continued described the changes he want to make to the AI and checked the wireframe design back and forth
+181,P4,4,C,3,Code and Chat: text-based chat,10,"copied and pasted the code and refreshed the page and checked the feature, the functionality is working, but the style is not matched"
+182,P4,4,C,3,Code and Chat: text-based chat,11,copied and pasted the css file to the AI and asked it to add some colors for those buttons and panels by describing what colors are needed matching the colors in the design wireframe
+183,P4,4,C,3,Code and Chat: text-based chat,12,copied and pasted the the css file into the file and refreshed the page
+184,P4,4,C,3,Code and Chat: text-based chat,13,time ups and had no time to check the update
+185,P5,5,E,1,,1,Read the srs.md file line by line
+186,P5,5,E,1,,2,checked the Figma UI design
+187,P5,5,E,1,,3,found the first requirement mismatch herself by comparing the SRS and wireframe and reported it in the REPORT1.md file
+188,P5,5,E,1,,4,reported the mismatches by typing them herself
+189,P5,5,E,1,,5,she mentioned that she forgot to use AI
+190,P5,5,E,2,,1,Found the two “registration now” buttons by herself
+191,P5,5,E,2,,2,"used Google AI Studio Real Time feature and shared the screen in REPORT2.md, asked the AI (via voice interaction) to write down the issue in the table one by one"
+192,P5,5,E,2,,3,asked the AI to check the app’s UI usability to confirm the problem
+193,P5,5,E,2,,4,interacted with the app by using the filtering feature and asked the AI for any usability issues
+194,P5,5,E,2,,5,asked the AI again to help filling out the problem in the table one-by-one in a row
+195,P5,5,E,2,,6,ask AI to slow down while writing dowm the problem (to keep the pace with her typing)
+196,P5,5,E,2,,7,asked AI to find another usability issue
+197,P5,5,E,2,,8,when reported each usability issue: asked the AI to answer each box in a row words by words reported from the AI’s responses
+198,P5,5,E,3,,1,Used the Code and Chat feature
+199,P5,5,E,3,,2,uploaded the Task 3 high-fidelity mockup design PDF to the AI
+200,P5,5,E,3,,3,copied all the details for Task 3 inside the INSTRUCTIONS.md to the AI
+201,P5,5,E,3,,4,copied all the source code in the MyRegistrationView.js file to the AI and asked for help with updating the source code
+202,P5,5,E,3,,5,copied the wrong source code (.css code by AI) into the JavaScript file
+203,P5,5,E,3,,6,rechecked the source code generated by the AI
+204,P5,5,E,3,,7,copied paste the original component.css source code into the AI and asked for the updated version
+205,P5,5,E,3,,8,refreshed the app but didn’t check on the updated feature for confirmation and went to push the change directly
+206,P6,6,C,1,Code and Chat: text-based chat,1,read the INSTRUCTIONS.md line by line to understand what she needs to do
+207,P6,6,C,1,Code and Chat: text-based chat,2,opened the srs.md file and skimmed through the content
+208,P6,6,C,1,Code and Chat: text-based chat,3,opened the Figma wireframe
+209,P6,6,C,1,Code and Chat: text-based chat,4,read the INSTRUCTIONS.md again about the task description
+210,P6,6,C,1,Code and Chat: text-based chat,5,copied and pasted the example prompt into the AI and appended the contents inside the srs.md for contexts
+211,P6,6,C,1,Code and Chat: text-based chat,6,asked the AI to give her a list of requirements that should be in the wireframe so she can have ideas on what to check on
+212,P6,6,C,1,Code and Chat: text-based chat,7,scrolled up and down and tried to locate the latest conversation
+213,P6,6,C,1,Code and Chat: text-based chat,8,skimmed the responses of the check list generated by the AI
+214,P6,6,C,1,Code and Chat: text-based chat,9,split the windows into two with left is the AI and right is the wireframe
+215,P6,6,C,1,Code and Chat: text-based chat,10,started checking the list of requirements (with checkboxes provided) from the AI against the wireframe design in the Figma back and forth to find mismatched
+216,P6,6,C,1,Code and Chat: text-based chat,11,marked and checked those that meet the requirements and leaved those unselected that doesn’t match the requirements
+217,P6,6,C,1,Code and Chat: text-based chat,12,she found that the wireframe design is missing the FAQ feature and tried to report the problem in the table but didn’t finish
+218,P6,6,C,1,Code and Chat: text-based chat,13,"she typed the issues (e.g., missing the FAQ and text search features, Sold Out event still shows register now button, and optional label is not showed in the registration flow) that she found herself and asked the AI to generate the report following the format, then she copied and pasted the REPORT2.md to the AI"
+219,P6,6,C,1,Code and Chat: text-based chat,14,copied and pasted the table as the Markdown format into the REPORT1.md and briefly skimmed through the contents to confirm
+220,P6,6,C,2,Code and Chat: text-based chat,1,read and skimmed the INSTRUCTIONS.md file to understand the task
+221,P6,6,C,2,Code and Chat: text-based chat,2,followed the instructions to start the server and run the application
+222,P6,6,C,2,Code and Chat: text-based chat,3,read the INSTRUCTIONS.md again for more information
+223,P6,6,C,2,Code and Chat: text-based chat,4,"copied and pasted the example prompt, asked it to help review the 10 heuristics, copied and pasted the the REPORT2.md file, and told that AI the she needed to find 4 problems"
+224,P6,6,C,2,Code and Chat: text-based chat,5,"followed the suggested flow to interact and use the application (e.g., registered and cancelled an event, refreshed the event detail page, checked the sold out event page, registered events again)"
+225,P6,6,C,2,Code and Chat: text-based chat,6,she has not found any issues upon those actions
+226,P6,6,C,2,Code and Chat: text-based chat,7,"checked the event detail page and found the two register now buttons, she went back the AI and recorded the problem in the prompt"
+227,P6,6,C,2,Code and Chat: text-based chat,8,checked the FAQ page and clicked and expanded those questions
+228,P6,6,C,2,Code and Chat: text-based chat,9,tried using the text search and filter features to find a problem
+229,P6,6,C,2,Code and Chat: text-based chat,10,reported the problem that she think it’s a problem (but it’s not) of the text search returns irrelevant results
+230,P6,6,C,2,Code and Chat: text-based chat,11,"she went back to the text search feature again to double check and found that the text search actually returns the correct events, so she moved the problem from the prompt"
+231,P6,6,C,2,Code and Chat: text-based chat,12,continued using the app via browsing the event detail page and went to the event detail page and found the Add to Calendar button doesn’t work
+232,P6,6,C,2,Code and Chat: text-based chat,13,tried to register an event and found that the preference tab for registration for the Parking Needed as a required answer but she can bypass without choosing one (which it’ incorrect) and recorded it down to the AI
+233,P6,6,C,2,Code and Chat: text-based chat,14,entered the first two problems to the AI
+234,P6,6,C,2,Code and Chat: text-based chat,15,copied and pasted the generated table as a Markdown format into the REPORT2.md file
+235,P6,6,C,2,Code and Chat: text-based chat,16,time ups
+236,P6,6,C,3,,1,downloaded the design mockup PDF
+237,P6,6,C,3,,2,split the windows into two with left if the project repo and right is the design mockup
+238,P6,6,C,3,,3,read the INSTRUCTIONS.md file line by line to understand the task
+239,P6,6,C,3,,4,"followed the instructions to start the server, run the app, and registered events"
+240,P6,6,C,3,,5,read the INSTRUCTIONS.md file and located the two source coding files that she needed to edit
+241,P6,6,C,3,,6,discard the old chats and started a new code and chat conversation
+242,P6,6,C,3,,7,"copied and pasted the example prompt, .js and .css source code to the AI for contexts"
+243,P6,6,C,3,,8,told the AI that she need to implement the following in the My Registration page: started describing the feature elements in details and checked the wireframe design screen by screen while elaborating the details
+244,P6,6,C,3,,9,"continued added more description as an item list (1, 2, 3, …) and checked the UIs wireframe back and forth"
+245,P6,6,C,3,,10,copied and pasted the update code into the .js file
+246,P6,6,C,3,,11,control F to find the corresponding .css section for the MyRegistration page and pasted the updated code
+247,P6,6,C,3,,12,refreshed the page to check the update and used and tested the app end-to-end and checked it against the design mockup and found some mismatch
+248,P6,6,C,3,,13,prompted the AI about the change she wanted to make by checking on the design mockup
+249,P6,6,C,3,,14,copied and pasted the updated .js file and refreshed the page and had no time left for checking
+250,P6,6,C,3,,15,time ups
+251,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,1,checked and read aloud the INSTRUCTIONS.md
+252,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,2,"checked and read aloud of the srs.md document. Read aloud the requirements and checked the wireframe back and forth, and found out the first problem (missing text search feature)"
+253,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,3,reported and wrote down the problem in the table
+254,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,4,continued reading aloud section 2.3 functional requirements
+255,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,5,found the next requirement problem himself by checking the srs.md and wireframe
+256,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,6,asked the researcher whether he could use AI to help with writing the report1.md for the markdown table (yes)
+257,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,7,copied pasted the report table to the AI and them wrote down the problem himself regarding the problem that he found and asked AI to help him complete the problem report based on the info he entered
+258,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,8,he went back and read the srs against the wireframe and tried to find the third problem by himself (missing the FAQs feature)
+259,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,9,he described and entered the problem for the AI and asked AI to help him filling out into the table for quick formatting
+260,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,10,continued read the srs against the wireframe and tried to find the last problem by himself (inconsistent nav bar)
+261,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,11,he described and entered the problem for the AI and asked AI to help him filling out into the table
+262,P7,7,E,1,Code and Chat feature for help writing down the problems following the markdown table,12,waited for AI to complete the problem report in the .md table and copied paste them back to the report
+263,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,1,read aloud the INSTRUCTIONS.md file to understand the task
+264,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,2,followed the steps to start the server
+265,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,3,"followed the steps to interact with and use the features (searched for an event, registered an event; checked the registration list; cancelled an event; tried the edge cases during the registration by refreshing the page) of the app"
+266,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,4,went through each heuristics one by one in the table and checked them against the app
+267,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,5,found a heuristic problem (clicking the FQA button interrupts the registration process) by himself
+268,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,6,entered the problem into the AI as prompts and asked AI to fill in the problem in the report table
+269,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,7,went back to the EventConnect app and found the second heuristic problem (two register now buttons)
+270,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,8,enter the problem to the AI and asked it to fill in the new problem
+271,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,9,went back to the app and interacted with the app again and tried to find the next problem
+272,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,10,found the third problem (no closest events options in the filter feature)
+273,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,11,entered the problem into the AI for records
+274,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,12,went back again to check the app by interacting with it and tried to found the last problem
+275,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,13,"he found out that there is an event that he thought he didn’t enter any info for the registration steps before (but he did sometime before), and he thought that’s a problem"
+276,P7,7,E,2,Code and Chat feature for help writing down the problems following the markdown table,14,he entered the “problem” into the AI for the last one in the report
+277,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,1,read aloud the info in the INSTRUCTIONS.md file
+278,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,2,checked the feature design mockup
+279,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,3,followed the instructions to start the server and registered a couple of events
+280,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,4,followed the instructions to open the files that he needs to edit
+281,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,5,uploaded the design mockup PDF to the AI and told the app that he needs to implement a feature looks like the design
+282,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,6,went back to the design mockup and checked every screen one by one
+283,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,7,aftering checking the design mockup: continued the previous prompts and added more info to the AI by describing the what the elements should have for the feature by describing the design screen by screen back and forth
+284,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,8,read and checked the design mockup carefully and recorded the new info into the AI promots
+285,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,9,hitted the prompts and waited for the responses from the AI
+286,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,10,copied and pasted the source generated by the AI into the project
+287,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,11,checked whether the added code makes the feature work in the app
+288,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,12,"after checking, found out that the feature is functional working but design is a bit off (styling is not 100% matched)"
+289,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,13,went back to the Google AI Studio and entered more information to the AI to tweak a bit on the feature design
+290,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,14,adopted the new change code from the AI into the project source code and found that the design was worse than before and he decided to reverse the code to the last version
+291,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,15,remodified and tweaked the last prompt and hitted to the AI for new response and copied paste the new responses
+292,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,16,found out still not working
+293,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,17,open the inspector window and found that element that has the problem and used [some tool] to check the color hex code for that element
+294,P7,7,E,3,Code and Chat feature for uploading the design mockup as well as describing the feature’s elements into the AI for more information,18,applied the color into the .css file himself to fix the mismatched color problem
+295,P8,8,C,1,,1,"Split the srs.md and Figma design with split view, and read the srs.md document and checked it against the wireframe design"
+296,P8,8,C,1,,2,checked the wireframe screen by screen against the requirements (Use Case) line by line
+297,P8,8,C,1,,3,read aloud the requirements one by one and carefully checked them against the wireframe screen by screen
+298,P8,8,C,1,,4,copied and pasted all the text components of the wireframe design into the AI and asked the AI to check these text against the srs.md and waited for the AI responses
+299,P8,8,C,1,,5,after getting the responses: checked the problems reported by the AI and found that some of the problems that he found previously didn’t covered by the AI
+300,P8,8,C,1,,6,added additional AI problem into to the AI and waited for regeneration
+301,P8,8,C,1,,7,copied and pasted the content by the AI into the report1.md and checked the problems one by one to make sure it’s correct
+302,P8,8,C,2,,1,read the INSTRUCTIONS.md and checked each of Nielsen’s heuristics and tried to remember each one cause he had never heard of these before
+303,P8,8,C,2,,2,"thinking about giving the source code to the AI to ask for usability issues, but there’s too much source code for the whole project"
+304,P8,8,C,2,,3,he interacted with the app and found that there are two “Register now” button in the event detail page
+305,P8,8,C,2,,4,he found the source code related to the event detail page and copied & pasted the source code for that page to the AI and described the two “Register Now” buttons to the AI
+306,P8,8,C,2,,5,asked the AI to find the issues with the app
+307,P8,8,C,2,,6,continued using the app and tried to find the features with usability issues
+308,P8,8,C,2,,7,found these problems (the “add to calendar” button is not working; the MyRegistration event can’t be clicked with more info; etc.) but not sure about what these problems violate which heuristic
+309,P8,8,C,2,,8,copied and pasted the Nielsen’s 10 heuristics and described the problems to AI and asked it to complete the table
+310,P8,8,C,2,,9,"copied and pasted the AI’s answers to the report, checked each problem one by one"
+311,P8,8,C,2,,10,tried to find another problem within 3 minutes
+312,P8,8,C,2,,11,reported a new problem to the AI and waited for the responses
+313,P8,8,C,2,,12,"copied and pasted the AI’s answers to the report, checked each problem one by one"
+314,P8,8,C,3,,1,"read the INSTRUCTIONS.md file and followed the instructions to start the server, opened the design mockup as a split view, and opened the required source file"
+315,P8,8,C,3,,2,brainstormed how he could use the AI for this task without uploading the PDF to the AI
+316,P8,8,C,3,,3,he decided to describe the feature in text to the AI as prompts
+317,P8,8,C,3,,4,"checking the mockup design, the MyRegistration page in the app back and forth and continued added details to the AI regarding the feature"
+318,P8,8,C,3,,5,"after described the first screen of the design mockup to the AI, he copied and pasted the source code to the AI to ask it to help implement it"
+319,P8,8,C,3,,6,"meanwhile waiting for the first screen design, he decided to try to implement the design components in the second screen of the mockup design by himself"
+320,P8,8,C,3,,7,copied and pasted the updated source code by the AI to the project and checked the updated UI by himself
+321,P8,8,C,3,,8,he found the design didn’t follow the UI mockup exactly
+322,P8,8,C,3,,9,he located the source code component himself and fixed the issue
+323,P8,8,C,3,,10,he continued to describe and add more deatils for the second screen to the AI as prompts but found that cumbersome (takes time)
+324,P8,8,C,3,,11,meanwhile he tried to find the corresponding element components in the source code and tried to implement part of the feature by himself
+325,P8,8,C,3,,12,"he tried to describe the design in screen 3 & 4 of the mockup to the AI, getting the color of the a specific element of the design the passed it to the AI for more details"
+326,P8,8,C,3,,13,last second to copied and pasted the updated source code and had no time to check the update on the UI
+327,P9,9,E,1,,1,Read the instructions.md line by line
+328,P9,9,E,1,,2,Use the Real-Time feature
+329,P9,9,E,1,,3,"Show AI the srs.md content, scroll down the srs.md to the AI, asked AI whether it can see all the content in srs.md."
+330,P9,9,E,1,,4,"Switched to Figma, showed the AI the UI's screen by screen, ask AI to spot the issue"
+331,P9,9,E,1,,5,AI answered with 4 problems
+332,P9,9,E,1,,6,Ask AI about the first problem again to confirm.
+333,P9,9,E,1,,7,Ask AI whether the AI can check Report1.md and asked whether the AI can help fill in the problem in the report
+334,P9,9,E,1,,8,Copied & pasted the items generated by the AI one by one to the table.
+335,P9,9,E,1,,9,"Tried to upload a file in the Real Time Feature, but it failed"
+336,P9,9,E,1,,10,"Restarted the Real Time feature, went over the srs.md & wireframe again with the AI, and asked the AI to spot 4 problems"
+337,P9,9,E,1,,11,Ask AI to write down the problems into the formatted table and
+338,P9,9,E,1,,12,The AI reported 4 requirements to the participant
+339,P9,9,E,1,,13,"he copied and pasted them again, one by one, into the table for each problem"
+340,P9,9,E,1,,14,"The format is not correct, & switched back to the Code & Chat feature and gave the AI the Report1.md file to ask it to help correct the format"
+341,P9,9,E,1,,15,"At the end of the task, he said: I wish to do the task myself if I have more time"
+342,P9,9,E,2,,1,Read the instructions.md roughly
+343,P9,9,E,2,,2,"Use the Real Time feature, show the app to the AI, and ask for help spotting the issue"
+344,P9,9,E,2,,3,The AI asks him to try some features
+345,P9,9,E,2,,4,"He tried to use the Search & Filter feature and found that searching ""music"" didn't return anything, but it should because there is an event categorized with “music”"
+346,P9,9,E,2,,5,"He continued to use other features (registration, event detail pages) and found these problems: ●​ 2 register buttons ●​ phone number is not being checked ●​ registration without payment? ●​ Add to calendar doesn't work (he thought maybe it isn't implemented yet)"
+347,P9,9,E,2,,6,"Checked other features, — cancel an event immediately (cancel; about; FAQs) — delete an event"
+348,P9,9,E,2,,7,"Showed the Report2.md file and format to the AI, and asked the AI to report each problem row by row"
+349,P9,9,E,2,,8,Asked AI to give all problems at once
+350,P9,9,E,2,,9,He copied & pasted all the problem.
+351,P9,9,E,2,,10,Downloaded the report2.md and use Code & Chat to ask AI to format the problem in the table
+352,P9,9,E,2,,11,"Have two Google AI Studio open, one for Code & Chat; one for Real Time."
+353,P9,9,E,2,,12,Copied & pasted the generated table
+354,P9,9,E,3,,1,Read the Instructions.md file roughly & downloaded the design PDF
+355,P9,9,E,3,,2,read the run the app
+356,P9,9,E,3,,3,registered the events (2-3)
+357,P9,9,E,3,,4,"Continue read the instructions.md, opened the source code files"
+358,P9,9,E,3,,5,(Not sure whether the Real Time screen sharing can help that much) Use the Code & Chat feature for this task
+359,P9,9,E,3,,6,Downloaded these files: instructions.md; Cancel_multiple.pdf; MyRegistrationView.js; Components.css
+360,P9,9,E,3,,7,"Uploaded all the files to the Code & Chat files feature, and ask AI to follow the design in pdf and to fill out the .js & .css to complete the feature."
+361,P9,9,E,3,,8,Checked AI generated code roughly by scrolling up & down
+362,P9,9,E,3,,9,Asked AI to comment on the added code so he can better trace it.
+363,P9,9,E,3,,10,"Copied pasted the .js content, check the updated .js file by its comment for the component"
+364,P9,9,E,3,,11,Same step for checking the .css.
+365,P9,9,E,3,,12,Refreshed the app. Checked the new feature against the design PDF screen by screen.
+366,P9,9,E,3,,13,"Found that the ""Select all"" box element shows a ""check"" symbol instead of a ""hyphen"" symbol."
+367,P9,9,E,3,,14,"Screenshot the correct components to the AI, then ask for update."
+368,P9,9,E,3,,15,"Ask AI to fix the elements via describing the changes as prompts. (What should be changed to what, etc.)"
+369,P9,9,E,3,,16,Waiting for AI to generate the code.
+370,P9,9,E,3,,17,"Copied & pasted the updated code, refreshed the app via using the multi-cancel feature again."
+371,P9,9,E,3,,18,Check the feature end-to-end to make sure it works and looks like the design mockup
+372,P10,10,C,1,,1,Checked the instructions.md file and asked the researcher: “Is it checking the srs.md against the Figma design?”
+373,P10,10,C,1,,2,checked with the researcher whether he can split the windows into two
+374,P10,10,C,1,,3,split the windows into two: left side srs.md and right side the Figma wireframe
+375,P10,10,C,1,,4,checked the wireframe one by one to the srs.md doc by himself
+376,P10,10,C,1,,5,found one problem (the registration form is missing the preference step)
+377,P10,10,C,1,,6,found another problem (the sold-out event still shows the “Register Now” button)
+378,P10,10,C,1,,7,found another proble (the inconsistent nav bar in the screen 3)
+379,P10,10,C,1,,8,reported the first problem (no text search field) in the table by himself
+380,P10,10,C,1,,9,checked the wireframe and srs.md back and forth to confirm the items in the table’s row
+381,P10,10,C,1,,10,follow the same steps to report the 2nd problem by himself via checking the srs.md and wireframe back and forth
+382,P10,10,C,1,,11,the same steps to report the 3rd problem but only complete the first half
+383,P10,10,C,2,,1,read the instructions.md file
+384,P10,10,C,2,,2,asked the AI to shorten the explanation of each heuristic so he can recap each one
+385,P10,10,C,2,,3,read through each heuristic generated by the AI
+386,P10,10,C,2,,4,asked the AI which heuristic is the most common one that people often forget to implement
+387,P10,10,C,2,,5,AI recommended the “Error Prevention”
+388,P10,10,C,2,,6,"he tried to search an non-existed event in the search text field, it works"
+389,P10,10,C,2,,7,went back to the AI to check the 2nd most common forget one “Help and Documentation”
+390,P10,10,C,2,,8,went back to check the app
+391,P10,10,C,2,,9,"asked the AI again by providing specific context to the AI (“I’m reviewing an event registration app, give me more possible…”) so the AI the provide some suggestions to him regarding the app to check the usability"
+392,P10,10,C,2,,10,according to the suggestions from the AI and he went back to the app to check the other features
+393,P10,10,C,2,,11,he found that the “Add to Calendar” button doesn’t work
+394,P10,10,C,2,,12,he checked the suggestions interactions by the AI and went to the app to try back and forth and tried to found more problems
+395,P10,10,C,2,,13,started to report the first problem (two “Register Now” buttons) in the report by himself
+396,P10,10,C,2,,14,same way to report the second problem (“add to calendar” doesn’t work)
+397,P10,10,C,2,,15,went back to the app and tried to find other usability issues but didn’t find more since time-ups
+398,P10,10,C,3,,1,read the instructions.md file and follow the steps to prep the start of the task (started the app server; opened the related files)
+399,P10,10,C,3,,2,went to the AI and provided some context to the AI about the required implemented feature by describing what the feature is about
+400,P10,10,C,3,,3,asked the AI to help implement the “multi-cancel” feature
+401,P10,10,C,3,,4,checked the other components’ source code in the .js file
+402,P10,10,C,3,,5,copied and pasted the relevant source code to the AI to provide more context
+403,P10,10,C,3,,6,checked the updated source code generated by the AI before using it
+404,P10,10,C,3,,7,asked the AI to help implement the multi-select buttons first and checked the design mockup back and forth by zooming in and out of the elements for the feature
+405,P10,10,C,3,,8,tried to locate the elements inside the MyRegistrationView.js and understand the components inside the js file
+406,P10,10,C,3,,9,copied parts of the js source code to the AI and asked it where he could start implementing the feature
+407,P10,10,C,3,,10,skimmed the code and summary generated by the AI to tried to understand the updates that the AI made on the source code
+408,P10,10,C,3,,11,copied and pasted the update code into the .js file and refreshed the page to check the feature against the design mockup in the PDF
+409,P10,10,C,3,,12,then he found some mismatches between the updated feature and the design one
+410,P10,10,C,3,,13,prompted the AI about the changes he wanted to make by describing the updates on the elements and checked the design mockup back and forth
+411,P10,10,C,3,,14,read and checked the update code and summary generated by the AI and asked why it needs the failedcount and what does it need for to make sure he understand the update
+412,P10,10,C,3,,15,copied and pasted the update code to the files and refreshed the page to check the feature
+413,P10,10,C,3,,16,checked the update feature against the design mockup
+414,P10,10,C,3,,17,time ups
+415,P11,11,E,1,,1,Copied and pasted the srs.md to the AI and screenshots the image of each UI wireframe design
+416,P11,11,E,1,,2,asked the AI to check the mismatches
+417,P11,11,E,1,,3,"after AI generated the problems, she cross checked each problem mentioned by the AI by comparing them to the wireframe and srs.md"
+418,P11,11,E,1,,4,"after confirmation, she reported the problem in the table by writing it herself"
+419,P11,11,E,1,,5,followed the same step to cross check the 2nd problems provided by the AI and then reported it in the table
+420,P11,11,E,1,,6,followed the same step to cross check the 3rd problems provided by the AI and then reported it in the table
+421,P11,11,E,1,,7,followed the same step to cross check the 4th problems provided by the AI and then reported it in the table
+422,P11,11,E,2,use the speech-to-text text prompt,1,"followed the steps in the instructions.md to run the app, played around with the app by registering two events"
+423,P11,11,E,2,use the speech-to-text text prompt,2,asked the AI about the 10 heuristics
+424,P11,11,E,2,use the speech-to-text text prompt,3,gave the AI the link to the EventConnect app and tried to ask the AI to check the usability
+425,P11,11,E,2,use the speech-to-text text prompt,4,continued using the app and found some usability issues
+426,P11,11,E,2,use the speech-to-text text prompt,5,reported the 1st problem in the table by herself (all screen nav bar doesn’t have a back and reload button)
+427,P11,11,E,2,use the speech-to-text text prompt,6,reported the 2nd problem in the table by herself (two “Register Now” buttons)
+428,P11,11,E,2,use the speech-to-text text prompt,7,continued use the app and found the problems (the availability filter options show returned the sold out event) and checked the 10 heuristiv again and try to find the corresponding one
+429,P11,11,E,2,use the speech-to-text text prompt,8,reported the last two problems following the same steps to write down by herself
+430,P11,11,E,3,,1,read the instructions.md and followed the steps to run the app and open the design PDF file
+431,P11,11,E,3,,2,located the .js and .css files and copied and pasted the source code
+432,P11,11,E,3,,3,copied and pasted the content in the INSTRUCTIONS.md file and the design PDF to the AI to provide more content
+433,P11,11,E,3,,4,copied and pasted the updated source code to the AI
+434,P11,11,E,3,,5,checked the updated UIs and found that the UIs looks different (the stylesheet source code for the app was removed)
+435,P11,11,E,3,,6,she reversed back the code and asked the AI to update the changes that she needs without changing others
+436,P11,11,E,3,,7,copied and pasted the updated source code to the source code files
+437,P11,11,E,3,,8,checked the updated feature end-to-end
+438,P12,12,C,1,didn’t use AI at all,1,"at the beginning, he said that “based on the logic of the tasks, I’m probably choose to use the AI for the last task but not the first two tasks since he can’t upload any image/video files)"
+439,P12,12,C,1,didn’t use AI at all,2,split the windows into two (left: the srs.md and right: the wireframe) and checked the problem manually
+440,P12,12,C,1,didn’t use AI at all,3,he found the first problem (missing the text search field)
+441,P12,12,C,1,didn’t use AI at all,4,went to the Report1.md and checked the format he needs to report
+442,P12,12,C,1,didn’t use AI at all,5,followed the format and checked the srs.md and wireframe back and forth to report the first problem by himself
+443,P12,12,C,1,didn’t use AI at all,6,"followed the same steps, he found the second problem (the inconsistent nav bar in screen 3)"
+444,P12,12,C,1,didn’t use AI at all,7,reported the 2nd problem following the same steps by checking the srs.md and wireframe to report those items
+445,P12,12,C,1,didn’t use AI at all,8,checked the srs.md and wireframe again and found the third problem (the step 1 field boxes are not marked required for all)
+446,P12,12,C,1,didn’t use AI at all,9,followed the same step to report the problem in the table
+447,P12,12,C,1,didn’t use AI at all,10,same approach (check the srs.md and wireframe) and tried to find the last problem (missing FAQs)
+448,P12,12,C,1,didn’t use AI at all,11,reported the problem in the table by himself
+449,P12,12,C,2,didn’t use AI at all,1,read the INSTRUCTIONS.md Nielsen’s 10 heuristics table and get familiar with the concepts because he had never heard about them
+450,P12,12,C,2,didn’t use AI at all,2,used and interacted with the app and found the first problem (the two “Register Now” buttons)
+451,P12,12,C,2,didn’t use AI at all,3,checked the 10 heuristics again and tried to confirm which H# is that problem violating
+452,P12,12,C,2,didn’t use AI at all,4,reported the first usability problem himself
+453,P12,12,C,2,didn’t use AI at all,5,"went back to the app and tried to register an event by typing the info in the first step, after entering all the info in this step, he decided to enter an invalid phone number and to check whether it will check the invalid phone number, turned out it went through the next step without a validation"
+454,P12,12,C,2,didn’t use AI at all,6,reported the second problem in the table by himself
+455,P12,12,C,2,didn’t use AI at all,7,"continued using the app to finish the registration and cancelled an event, and continued registered another event and found that found that asking the preference for each event is superfluous and he thought it’s unnecessary"
+456,P12,12,C,2,didn’t use AI at all,8,reported the problem in the table
+457,P12,12,C,2,didn’t use AI at all,9,continued to use the app and tried to find the last problem via using the filter and search features and found the last problem (the filtering feature doesn’t allow multiple categories)
+458,P12,12,C,2,didn’t use AI at all,10,reported the last problem in the table
+459,P12,12,C,3,use the code and chat feature,1,"skimmed the INSTRUCTIONS.md file and followed the steps to run the server, downloaded the required files"
+460,P12,12,C,3,use the code and chat feature,2,prompted the AI with some context about what the feature should have and attached the two relevant source code files to the AI
+461,P12,12,C,3,use the code and chat feature,3,checked the design mockup again and tried to get the ideas of the implemented feature
+462,P12,12,C,3,use the code and chat feature,4,added more content into the AI for more context about the feature (for the screen 1 & 2 in the design mock)
+463,P12,12,C,3,use the code and chat feature,5,continued to check the design mockup and added more context to the AI by typing more info back and forth
+464,P12,12,C,3,use the code and chat feature,6,entered the prompt and wait for the response from the AI
+465,P12,12,C,3,use the code and chat feature,7,copied and pasted the updated source code to the files and found he pasted the source code to the wrong .css file (main.css instead of the components.css) and he reversed
+466,P12,12,C,3,use the code and chat feature,8,checked the updated feature and found the current version looks good
+467,P12,12,C,3,use the code and chat feature,9,"continued to add more context about the other elements (screen 3 & 4) to the AI by typing and describing more info in details (including the color, layout, textual content, etc)"
+468,P12,12,C,3,use the code and chat feature,10,waiting for the AI generating the response & copied and pasted the updated source code into the files
+469,P12,12,C,3,use the code and chat feature,11,while waiting he committed the interim work for backup
+470,P12,12,C,3,use the code and chat feature,12,"after updating the source code, he went back to the app to check the updated feature end-to-end"
+471,P12,12,C,3,use the code and chat feature,13,fixed the order of two buttons (###) by himself in the .css file using some external tool called (###)
+472,P12,12,C,3,use the code and chat feature,14,checked back the design mockup to make sure the feature meet all the requirements
+473,P13,13,E,1,use the Real-Time and Code and Chat feature,1,read the INSTRUCTIONS.md line by line
+474,P13,13,E,1,use the Real-Time and Code and Chat feature,2,used the Real-Time feature and opened the srs.md file and the wireframe UI design in the AI
+475,P13,13,E,1,use the Real-Time and Code and Chat feature,3,asked the AI to check the srs.md and Figma wireframe design and found the problem (missing the text search field)
+476,P13,13,E,1,use the Real-Time and Code and Chat feature,4,stopped the AI screen-sharing and the live voice interaction because he found it interrupting
+477,P13,13,E,1,use the Real-Time and Code and Chat feature,5,"reported the first problem in the table by himself by checking the srs.md, report1.md format back and forth"
+478,P13,13,E,1,use the Real-Time and Code and Chat feature,6,resumed the real-time feature and asked it to check the second screen
+479,P13,13,E,1,use the Real-Time and Code and Chat feature,7,the AI reported (a wrong problem) that the event detail page event doesn’t contain the event category
+480,P13,13,E,1,use the Real-Time and Code and Chat feature,8,participant decided to check whether that’s correct or the AI gave the wrong information
+481,P13,13,E,1,use the Real-Time and Code and Chat feature,9,he found that there’s a category tag in the event detail page
+482,P13,13,E,1,use the Real-Time and Code and Chat feature,10,he found out that the time is passing and decided to try something fast by using the code and chat feature
+483,P13,13,E,1,use the Real-Time and Code and Chat feature,11,he took screenshots of the image of the wireframe design and copied and pasted the srs.md into the prompts and asked AI to check against the content
+484,P13,13,E,1,use the Real-Time and Code and Chat feature,12,the AI pointed out that missing the FAQs feature and he checked the wireframe to confirm that it’s correct
+485,P13,13,E,1,use the Real-Time and Code and Chat feature,13,reported the second problem in the table by typing himself
+486,P13,13,E,1,use the Real-Time and Code and Chat feature,14,"followed the same step to screenshot the screen 2, 3, 4 of the wireframe UIs into the AI and asked it to find the problems"
+487,P13,13,E,1,use the Real-Time and Code and Chat feature,15,"after the AI generated, he read through the content generated by the AI and confirm the problems are correct"
+488,P13,13,E,1,use the Real-Time and Code and Chat feature,16,found the third problem and wanted to report the problem in the table but time ups
+489,P13,13,E,2,use the code and chat feature,1,read the INSTRUCTIONS.md file line by line
+490,P13,13,E,2,use the code and chat feature,2,copied and pasted Nielsen’s 10 heuristics to the AI and asked it to help check the usability issues of an app
+491,P13,13,E,2,use the code and chat feature,3,"meanwhile, he went to the app and used the features and tried to find some problems"
+492,P13,13,E,2,use the code and chat feature,4,screenshot the keyword search UIs into the AI and asked it to spot any usability issue in the screenshots
+493,P13,13,E,2,use the code and chat feature,5,copied and pasted the report2.md file to the AI and asked the AI to help him fill out the first problem
+494,P13,13,E,2,use the code and chat feature,6,"continued to use the app by registering an event and went to the My Registration page, and he found that the registered event can not be edited"
+495,P13,13,E,2,use the code and chat feature,7,described the potential problem to the AI and asked whether there’s a problem with it
+496,P13,13,E,2,use the code and chat feature,8,"meanwhile, he continued using the app and found that there are two “Register Now” buttons on the event detail page"
+497,P13,13,E,2,use the code and chat feature,9,screenshot the two “Register Now” buttons into the AI and asked the AI whether this breaks any heuristic
+498,P13,13,E,2,use the code and chat feature,10,"meanwhile, he went to check the 10 heuristics table and try to match which heuristic it violates (found it might be the H8)"
+499,P13,13,E,2,use the code and chat feature,11,went back to AI to confirm with his thought and confirm it’s correct
+500,P13,13,E,2,use the code and chat feature,12,copied and pasted the problem generated by the AI into the report
+501,P13,13,E,2,use the code and chat feature,13,went to the app and tried the filter and search feature & the register events and tried to another problem
+502,P13,13,E,2,use the code and chat feature,14,"copied and pasted the FAQs, event detail, and other pages to the AI and asked it to try to find another problem"
+503,P13,13,E,2,use the code and chat feature,15,the AI gave three potential usability problems
+504,P13,13,E,2,use the code and chat feature,16,he was wondering which one is correct
+505,P13,13,E,2,use the code and chat feature,17,he picked one and copied and pasted by the AI due to the time constraints
+506,P13,13,E,3,use the Code and Chat feature,1,"read the INSTRUCTIONS.md file, opened the design mockup PDF, and downloaded the PDF"
+507,P13,13,E,3,use the Code and Chat feature,2,followed the instructions to register events
+508,P13,13,E,3,use the Code and Chat feature,3,read the instructions again to double-check
+509,P13,13,E,3,use the Code and Chat feature,4,"prompted the AI that he is working on implementing a feature, uploaded the design mockup PDF, and took screenshots of the current My Registration page"
+510,P13,13,E,3,use the Code and Chat feature,5,located the required source files he needs to edit
+511,P13,13,E,3,use the Code and Chat feature,6,went through the mockup design screen by screen to make sure he understood the feature
+512,P13,13,E,3,use the Code and Chat feature,7,copied and pasted the .css and .js source file to the AI and asked the AI to update the source code based on the design
+513,P13,13,E,3,use the Code and Chat feature,8,went back to the .css and .js source code and tried to understand the components
+514,P13,13,E,3,use the Code and Chat feature,9,checked the .css code generated by the AI by each components and then copied and pasted the generate css by appending them to the existing file
+515,P13,13,E,3,use the Code and Chat feature,10,"checked the updated js file and he found that the generated js source code is given with “full” status, but he wants to only the changed source code that needed for the feature instead of copied and pasted the whole file to change the entire file so he don’t want to break anything"
+516,P13,13,E,3,use the Code and Chat feature,11,asked the AI to give him the updated code only
+517,P13,13,E,3,use the Code and Chat feature,12,the AI gave each component
+518,P13,13,E,3,use the Code and Chat feature,13,he checked each component and tried to locate the each component and copied and pasted each one into the correct position
+519,P13,13,E,3,use the Code and Chat feature,14,"while copied and pasted the components, the syntax issues came and spenting time on fixing the syntax issue, and ended up with not finishing the feature when time ups"
+520,P14,14,C,1,didn’r use the AI,1,read the INSTRUCTIONS.md line by line
+521,P14,14,C,1,didn’r use the AI,2,opened the srs.md file and briefly went over it
+522,P14,14,C,1,didn’r use the AI,3,checked the wireframe against the srs.md file and found the first problem (missing the text search bar)
+523,P14,14,C,1,didn’r use the AI,4,reported the first problem in the table by writing it down herself
+524,P14,14,C,1,didn’r use the AI,5,continued checking the wireframe against the srs.md and found the 2nd problem (missing the preference step in screen 3)
+525,P14,14,C,1,didn’r use the AI,6,reported the second problem in the table be herself
+526,P14,14,C,1,didn’r use the AI,7,same flow of checking the wireframe against the srs.md and found the 3rd problem (the inconsistent nar bar)
+527,P14,14,C,1,didn’r use the AI,8,reported the second problem in the table be herself
+528,P14,14,C,1,didn’r use the AI,9,checked the wireframe and srs.md doc again and tried to find the last problem
+529,P14,14,C,1,didn’r use the AI,10,didn’t find the last one cause time ups
+530,P14,14,C,2,Use code and chat for checking the heuristics,1,followed the steps to run the app and read the INSTRUCTIONS.md file briefly
+531,P14,14,C,2,Use code and chat for checking the heuristics,2,interacted with the app by using the keyword search feature and tried to find any usability issue
+532,P14,14,C,2,Use code and chat for checking the heuristics,3,read the 10 heuristic table in the instructions.md file to get familiar with each one
+533,P14,14,C,2,Use code and chat for checking the heuristics,4,continued using the app and tried to find the problem and found that there are two “Register Now” buttons
+534,P14,14,C,2,Use code and chat for checking the heuristics,5,went back to the 10 heuristics table and tried to match the issue with one heuristic (H4)
+535,P14,14,C,2,Use code and chat for checking the heuristics,6,reported the problem in the table by typing it herself
+536,P14,14,C,2,Use code and chat for checking the heuristics,7,continued using the app and found that the “Add to Calendar” doesn’t work
+537,P14,14,C,2,Use code and chat for checking the heuristics,8,copied and pasted the 10 heuristics table to the AI and described the issue button to the AI and asked it which heuristic it violates
+538,P14,14,C,2,Use code and chat for checking the heuristics,9,"AI returned the result (H1), she copied and pasted the item into the table"
+539,P14,14,C,2,Use code and chat for checking the heuristics,10,used the app and found the 3rd problem (no go back button in the event detail page)
+540,P14,14,C,2,Use code and chat for checking the heuristics,11,described the problem to the AI and asked the AI to categorize which heuristic this violates
+541,P14,14,C,2,Use code and chat for checking the heuristics,12,copied and pasted the items generated by the AI to the report
+542,P14,14,C,2,Use code and chat for checking the heuristics,13,used the registration form feature and tried to find the last problem and found that the event registration doesn’t confirm submission
+543,P14,14,C,2,Use code and chat for checking the heuristics,14,prompted the problem to the AI and asked the AI to classify the heuristic problem
+544,P14,14,C,2,Use code and chat for checking the heuristics,15,copied and pasted the problem generated by the AI to complete the report
+545,P14,14,C,2,Use code and chat for checking the heuristics,16,checked the report1.md file and found that she missed filling out the Redesign proposal column
+546,P14,14,C,2,Use code and chat for checking the heuristics,17,she filled the last column by herself
+547,P14,14,C,3,use Code and Chat feature,1,"read the INSTRUCTIONS.md file briefly and followed the instructions to start the server, download the PDF file, and register events"
+548,P14,14,C,3,use Code and Chat feature,2,checked the mockup design file to understand what she needs to implement for the feature
+549,P14,14,C,3,use Code and Chat feature,3,opened the required source code file
+550,P14,14,C,3,use Code and Chat feature,4,prompted the AI with the description/specification of the feature and copied and pasted the .js and .css files for more context
+551,P14,14,C,3,use Code and Chat feature,5,asked the AI to implement the feature
+552,P14,14,C,3,use Code and Chat feature,6,copied and pasted the updated source code into the files
+553,P14,14,C,3,use Code and Chat feature,7,checked the updated feature against the design mockup and found some mismatches
+554,P14,14,C,3,use Code and Chat feature,8,prompted the AI for the some change on the existing feature (# of registration shown in the bar)
+555,P14,14,C,3,use Code and Chat feature,9,"copied and pasted the updated code and then checked the updated feature with the design mockup again, still some mismatches"
+556,P14,14,C,3,use Code and Chat feature,10,described the change (cancel registration in the bottom) to the AI and asked to update the source code
+557,P14,14,C,3,use Code and Chat feature,11,confirm with AI whether she and copied and pasted the whole files for the change
+558,P14,14,C,3,use Code and Chat feature,12,confirmed and then copied and pasted the updated souce into the files
+559,P14,14,C,3,use Code and Chat feature,13,checked the updated feature and found that the bottom bar still has some mismatch
+560,P14,14,C,3,use Code and Chat feature,14,"prompted the change to the AI for changing the feature by describing the issue info in details (color, buttons’ text; layout of the buttons, etc.)"
+561,P14,14,C,3,use Code and Chat feature,15,copied and pasted the updated code
+562,P14,14,C,3,use Code and Chat feature,16,checked the feature end-to-end to make sure it works and looks like the mockup design
+563,P15,15,E,1,didn’t use AI,1,Read and go over the INSTRUCTIONS.md briefly and open the wireframe
+564,P15,15,E,1,didn’t use AI,2,she said she wants to check the wireframe one by one by herself
+565,P15,15,E,1,didn’t use AI,3,read through and go over the srs.md file
+566,P15,15,E,1,didn’t use AI,4,confirmed with the researcher whether each UI design wireframe points to a user study
+567,P15,15,E,1,didn’t use AI,5,checked the wireframe against the srs.md and found that screen 3 is missing the My Registration tab
+568,P15,15,E,1,didn’t use AI,6,continued checking the wireframe and the srs.md and found that screen 1 is missing the text search field feature
+569,P15,15,E,1,didn’t use AI,7,"continued checking the wireframe and srs.md and found that in the screen 3, the email and phone number is missing “required” or “optional,” and also found that it is missing the preference step"
+570,P15,15,E,1,didn’t use AI,8,"after spotting all the problems, she opened the report1.md and started the write down all 4 problems in the report"
+571,P15,15,E,1,didn’t use AI,9,tried to figure out the markdown file format while reporting the problems
+572,P15,15,E,1,didn’t use AI,10,confirmed the problems in the wireframe and srs.md back and forth and filled out the problems in the table
+573,P15,15,E,1,didn’t use AI,11,after filled out the problems and found that the markdown format of the table is messy and tried to fix it but time ups
+574,P15,15,E,2,didn’t use AI,1,read the INSTRUCTIONS.md and followed the instructions to start the server
+575,P15,15,E,2,didn’t use AI,2,"interacted with the app, tried the filter feature, and tried to find any usability problems"
+576,P15,15,E,2,didn’t use AI,3,browsed the event list
+577,P15,15,E,2,didn’t use AI,4,opened the event detail page and found that two “Register Now” buttons might violate usability
+578,P15,15,E,2,didn’t use AI,5,looked up the 10 heuristics table and matched the heuristic (H4) to that problem
+579,P15,15,E,2,didn’t use AI,6,reported the first problem in the table
+580,P15,15,E,2,didn’t use AI,7,checked the heuristic again and changed the H4 to H10 for the first problem
+581,P15,15,E,2,didn’t use AI,8,tried the search feature and tried to find another problem
+582,P15,15,E,2,didn’t use AI,9,tried the registration form feature and clicked the add to calendar button and found it doesn’t work
+583,P15,15,E,2,didn’t use AI,10,looked up the 10 heuristic table and find a heuristic that match the not working button problem (H1)
+584,P15,15,E,2,didn’t use AI,11,reported the problem in the table
+585,P15,15,E,2,didn’t use AI,12,continued interact with the app and tried to find another problem
+586,P15,15,E,2,didn’t use AI,13,she found that event that already be registered is not marked or highlighted
+587,P15,15,E,2,didn’t use AI,14,tried the registration form again
+588,P15,15,E,2,didn’t use AI,15,tried to refresh the page
+589,P15,15,E,2,didn’t use AI,16,found it’s a little redundant to have two FAQs on the top and bottom
+590,P15,15,E,2,didn’t use AI,17,report the problem in the table
+591,P15,15,E,2,didn’t use AI,18,tried to register the same event again in the app
+592,P15,15,E,2,didn’t use AI,19,tried to report the last problem and time ups
+593,P15,15,E,3,use the Code and Chat feature,1,read the INSTRUCTIONS.md and followed the steps to start the server and opened the source code
+594,P15,15,E,3,use the Code and Chat feature,2,checked the design mockup screen by screen and quickly went over the required source code
+595,P15,15,E,3,use the Code and Chat feature,3,"after checking everything, she said she decided to use AI to help her implement the feature"
+596,P15,15,E,3,use the Code and Chat feature,4,uploaded the mockup design PDF and the MyRegistrationView.js files to the AI and asked the AI to implement the Cancel Multiple feature directly
+597,P15,15,E,3,use the Code and Chat feature,5,quickly went over the .css file
+598,P15,15,E,3,use the Code and Chat feature,6,quickly went through what the AI gave
+599,P15,15,E,3,use the Code and Chat feature,7,copied and pasted the updated .js source code to the AI
+600,P15,15,E,3,use the Code and Chat feature,8,checked the updated feature and found the feature didn’t change anything
+601,P15,15,E,3,use the Code and Chat feature,9,"checked the .js source code, .css component, and instructions.md back and forth and tried to find the issue"
+602,P15,15,E,3,use the Code and Chat feature,10,uploaded the .css file to the AI and asked the AI to also modify the .css based on the design mockup
+603,P15,15,E,3,use the Code and Chat feature,11,copied and pasted the updated css file
+604,P15,15,E,3,use the Code and Chat feature,12,checked the udapted feature by cancel all events at once
+605,P16,16,C,1,didn’t use AI,1,Read the instructions.md file line by line
+606,P16,16,C,1,didn’t use AI,2,opened the Figma design
+607,P16,16,C,1,didn’t use AI,3,read through the srs.md file
+608,P16,16,C,1,didn’t use AI,4,read the use case line by line and checked them against the wireframe design
+609,P16,16,C,1,didn’t use AI,5,"read through the user story 1 & 2 and checked them against the UI design in the wireframe and found the problems (mismatch pricing, sold out event still shows the register now button)"
+610,P16,16,C,1,didn’t use AI,6,reported the problem in the table by writing it down himself
+611,P16,16,C,1,didn’t use AI,7,checked the srs.md and wireframe back and forth while reporting the first problem in the table
+612,P16,16,C,1,didn’t use AI,8,checked the srs.md and wireframe back and forth while reporting the second problem in the table
+613,P16,16,C,1,didn’t use AI,9,went back to the srs.md and read the user story 3 and checked it again screen 3 in the wireframe and found the problem (missing the preference indicator)
+614,P16,16,C,1,didn’t use AI,10,reported the problem in the table by writing it down himself
+615,P16,16,C,1,didn’t use AI,11,checked the srs.md and wireframe back and forth while reporting the third problem in the table
+616,P16,16,C,1,didn’t use AI,12,checked the srs.md user story 4 and functional requirements against the wireframe and found the problem (missing the FAQ in all the screen)
+617,P16,16,C,1,didn’t use AI,13,reported the problem in the table by writing it down himself
+618,P16,16,C,1,didn’t use AI,14,checked the srs.md and wireframe back and forth while reporting the last problem in the table
+619,P16,16,C,1,didn’t use AI,15,while reporting each problem he checked the report items at the top of the REPORT1.md file to make sure he reported the right description
+620,P16,16,C,1,didn’t use AI,16,"after reporting all the problems, he went back to the srs.md to double-check the use case and user story for each problem"
+621,P16,16,C,2,chat prompting feature,1,read through the INSTRUCTIONS.md file roughly and followed the steps to start the server
+622,P16,16,C,2,chat prompting feature,2,briefly went over the 10 heuristics
+623,P16,16,C,2,chat prompting feature,3,copied and pasted the report2.md file to the AI so it can refer to the format that it needs to report the problem
+624,P16,16,C,2,chat prompting feature,4,"he used the app and found there are two Register Now buttons, checked the 10-heuristic table, and tried to find which heuristic it violates (H4, H5?)"
+625,P16,16,C,2,chat prompting feature,5,prompted the problem to the AI about the two Register Now buttons problem and so it kept track of the finding and report the problem in the table
+626,P16,16,C,2,chat prompting feature,6,went to the app to use the register form feature and cancel an event and didn’t find out the next problem
+627,P16,16,C,2,chat prompting feature,7,tried searching feature and he thinks the search results doesn’t match what he wants (that’s could be an issue?)
+628,P16,16,C,2,chat prompting feature,8,"went to the event detail page and found that the add to calendar doesn’t work and checked the 10-heuristic table, and tried to find which heuristic it violates (H8)"
+629,P16,16,C,2,chat prompting feature,9,wrote the problem to the AI so it kept track of the finding and report the problem in the table
+630,P16,16,C,2,chat prompting feature,10,checked the 10 heuristics table and read the H5 and found that the cancel an event doesn’t confirm before it deletes
+631,P16,16,C,2,chat prompting feature,11,wrote the problem to the AI so it kept track of the finding and report the problem in the table
+632,P16,16,C,2,chat prompting feature,12,tried using the filter and the register features
+633,P16,16,C,2,chat prompting feature,13,checked the app back and forth and tried to find other usabiltiy problem
+634,P16,16,C,2,chat prompting feature,14,tried to register an event using the same email to see if it passes after checking the FAQ section
+635,P16,16,C,2,chat prompting feature,15,"updated the web url on the top during the registration process using the same email and it passed through without issues but the My Registration page only shows one, so no problem"
+636,P16,16,C,2,chat prompting feature,16,tried to register an event so it closes the registration and checked whether it closed and then cancel an event and tried whether the event is opening again
+637,P16,16,C,2,chat prompting feature,17,checked the filter metrics and think that the Farthest First wording is not following the H2 heuristics
+638,P16,16,C,2,chat prompting feature,18,wrote the problem to the AI so it kept track of the finding and report the problem in the table
+639,P16,16,C,2,chat prompting feature,19,copied pasted the report written by the AI to the Report2.md
+640,P16,16,C,2,chat prompting feature,20,went over the report 2 very fast
+641,P16,16,C,3,,1,Briefly went over the INSTRUCTIONS.md this time and followed the steps to start the server and registered 2-3 events for the task
+642,P16,16,C,3,,2,opened the design mockup file and checked the files that he needed to edit
+643,P16,16,C,3,,3,copied and pasted the MyRegistrationView.js to the AI and then provided the context about the feature that he needs to implement by describing the feature in detail to the AI
+644,P16,16,C,3,,4,checked the design mockup back and forth and added more details about each screen in the design to the AI
+645,P16,16,C,3,,5,entered the prompt to the AI and waited for the AI to generate the response
+646,P16,16,C,3,,6,copied and pasted the updated code into the files and checked the updated feature
+647,P16,16,C,3,,7,found that the design (text and layout in the cancel confirmation box) doesn’t match the mockup
+648,P16,16,C,3,,8,tweaked the descriptions a bit in the prompt to the AI via checking the mockup design back and forth and asked for update and waiting for the generation
+649,P16,16,C,3,,9,copied and pasted the updated code and checked the feature again
+650,P16,16,C,3,,10,still doesn’t match the mockup design
+651,P16,16,C,3,,11,went back to the AI and re-described the change again for updating the feature and checked the mockup design back and forth
+652,P16,16,C,3,,12,"copied and pasted the code and checked the feature, and the design elements look good but the style is slightly off"
+653,P16,16,C,3,,13,went back to the AI and added more details to the AI for updated the feature styling
+654,P16,16,C,3,,14,opened the inspection window and found the elements while waiting for the code generation
+655,P16,16,C,3,,15,copied and pasted the code and checked the feature and times up
+656,P17,17,E,1,Use Real Time: live screen sharing and voice,1,read and skimmed the INSTRUCTIONS.md file
+657,P17,17,E,1,Use Real Time: live screen sharing and voice,2,opened the srs.md and checked how long is the file
+658,P17,17,E,1,Use Real Time: live screen sharing and voice,3,read the srs.md file for the use case and user stories
+659,P17,17,E,1,Use Real Time: live screen sharing and voice,4,started sharing the entire screen with the AI using the Read Time feature
+660,P17,17,E,1,Use Real Time: live screen sharing and voice,5,split the windows into two with left the project repo and right the Figma wireframe
+661,P17,17,E,1,Use Real Time: live screen sharing and voice,6,stop split the two screens due to the small size
+662,P17,17,E,1,Use Real Time: live screen sharing and voice,7,asked the AI to see his screen
+663,P17,17,E,1,Use Real Time: live screen sharing and voice,8,started checking the requirements in the srs.md file against the wireframe UIs design by himself
+664,P17,17,E,1,Use Real Time: live screen sharing and voice,9,then went back to the live screen sharing to asked the AI what the AI think
+665,P17,17,E,1,Use Real Time: live screen sharing and voice,10,didn’t realize that the AI can talk back to him in the live screen sharing mode and he turned on the laptop audio
+666,P17,17,E,1,Use Real Time: live screen sharing and voice,11,opened the REPORT1.md file and skimmed through each item in the report problem
+667,P17,17,E,1,Use Real Time: live screen sharing and voice,12,"previously he spotted the problem that the registration form is missing the step 2, now he showed the AI of the REPORT1.md about the format and asked the AI helped him to report the problem he found"
+668,P17,17,E,1,Use Real Time: live screen sharing and voice,13,copied and pasted the problem type from the AI into the table
+669,P17,17,E,1,Use Real Time: live screen sharing and voice,14,went back to the srs.md and wireframe design to find the issues and user workflow impacts that needed to report in the table
+670,P17,17,E,1,Use Real Time: live screen sharing and voice,15,"he found there’re too much information, so he decided to copied and pasted the functional requirements to the AI and asked it to help write down the problem statements needed"
+671,P17,17,E,1,Use Real Time: live screen sharing and voice,16,wrote down the first problem himself
+672,P17,17,E,1,Use Real Time: live screen sharing and voice,17,checked the second problem reported by the AI
+673,P17,17,E,1,Use Real Time: live screen sharing and voice,18,went back to the srs.md and wireframe back and forth to find the exact information that he needed to report the second problem
+674,P17,17,E,1,Use Real Time: live screen sharing and voice,19,time ups without finishing reporting the second problem
+675,P17,17,E,2,Use Real Time: live screen sharing with voice,1,read the INSTRUCTIONS.md roughly line by line and followed the steps to start the server and run the app
+676,P17,17,E,2,Use Real Time: live screen sharing with voice,2,went over the 10 heuristic table briefly before using the AI to help with the task
+677,P17,17,E,2,Use Real Time: live screen sharing with voice,3,"(he assumed that the AI is familiar with the 10 heuristics, but just in case) he copied and pasted the 10 heuristics table to the AI in the Real Time feature and mentioned that he needed to evaluate an app usability"
+678,P17,17,E,2,Use Real Time: live screen sharing with voice,4,he shared the screen with the AI
+679,P17,17,E,2,Use Real Time: live screen sharing with voice,5,he tried to register an event through the flow and asked the AI to spot any usability issues while he went to the registration flow
+680,P17,17,E,2,Use Real Time: live screen sharing with voice,6,(the AI sometimes spoken with the participant via Spanish)
+681,P17,17,E,2,Use Real Time: live screen sharing with voice,7,the AI talked to him while he registered an event
+682,P17,17,E,2,Use Real Time: live screen sharing with voice,8,he asked the AI to help him find four usability problems while he is using the app
+683,P17,17,E,2,Use Real Time: live screen sharing with voice,9,the AI talked to him in Spanish sometimes
+684,P17,17,E,2,Use Real Time: live screen sharing with voice,10,the AI said the there’s an error prevention usability violation issues
+685,P17,17,E,2,Use Real Time: live screen sharing with voice,11,"showed the detail page page to the AI and asked does it see any violation, and AI said no"
+686,P17,17,E,2,Use Real Time: live screen sharing with voice,12,he then went to the MyRegistration page and tried to cancel an event and realized that the cancelled the event without any confirmation
+687,P17,17,E,2,Use Real Time: live screen sharing with voice,13,he asked the AI whether cancel an event without popup confirmation is a potential violation
+688,P17,17,E,2,Use Real Time: live screen sharing with voice,14,the AI mentioned back that could violate H5
+689,P17,17,E,2,Use Real Time: live screen sharing with voice,15,then he went to the About page and scrolled through the page and asked whether any of the things on that page violate usability
+690,P17,17,E,2,Use Real Time: live screen sharing with voice,16,the AI repied with a couple potential usability issues
+691,P17,17,E,2,Use Real Time: live screen sharing with voice,17,he started writing down the each violated elements in each row of the table in the REPORT2.md by himself
+692,P17,17,E,2,Use Real Time: live screen sharing with voice,18,went back to the INSTRUCTIONS.md file to look up the 10 heursitics table and tried to match each problem with the corresponding heuristic that violated
+693,P17,17,E,2,Use Real Time: live screen sharing with voice,19,wrote down the type of the heuristic that is violated of the problems that he think in the REPORT2.md
+694,P17,17,E,2,Use Real Time: live screen sharing with voice,20,wrote down the issues of each problem in the table
+695,P17,17,E,2,Use Real Time: live screen sharing with voice,21,time ups and he didn’t finish all
+696,P17,17,E,3,Use Code and Chat: text-based chat,1,read through INSTRUCTIONS.md file roughly
+697,P17,17,E,3,Use Code and Chat: text-based chat,2,followed the instructions to start the server and run the application and register two events
+698,P17,17,E,3,Use Code and Chat: text-based chat,3,downloaded the design mockup PDF
+699,P17,17,E,3,Use Code and Chat: text-based chat,4,went back and read the INSTRUCTIONS.md
+700,P17,17,E,3,Use Code and Chat: text-based chat,5,opened the relevant source coding files
+701,P17,17,E,3,Use Code and Chat: text-based chat,6,copied and pasted the example prompts to the AI and tweaked a bit of the prompt
+702,P17,17,E,3,Use Code and Chat: text-based chat,7,copied and pasted the INSTRUCTIONS.md file into the AI for more contexts
+703,P17,17,E,3,Use Code and Chat: text-based chat,8,uploaded the design mockup PDF for more contexts and entered
+704,P17,17,E,3,Use Code and Chat: text-based chat,9,the AI asked him to send out the source coding files
+705,P17,17,E,3,Use Code and Chat: text-based chat,10,copied and pasted the MyRegistrationView.js and components.css coding to the AI and entered
+706,P17,17,E,3,Use Code and Chat: text-based chat,11,copied and pasted the updated code into the files
+707,P17,17,E,3,Use Code and Chat: text-based chat,12,refreshed the page and the feature is updated
+708,P17,17,E,3,Use Code and Chat: text-based chat,13,tested by using the feature and checked it end to end
+709,P17,17,E,3,Use Code and Chat: text-based chat,14,"after checking that the updated feature worked successfully and still had 8 minutes left, he decided to go back to the Google AI Studio to ask for a detailed explanation about how it works"
+710,P17,17,E,3,Use Code and Chat: text-based chat,15,read through the elaborations about the change and update for each component on the feature
+711,P17,17,E,3,Use Code and Chat: text-based chat,16,went back to check the wireframe design PDF again
+712,P17,17,E,3,Use Code and Chat: text-based chat,17,found that he missed some UIs of the PDF but the AI implemented all the elements as required
+713,P17,17,E,3,Use Code and Chat: text-based chat,18,roughly skimmed through the .js and .css files
+714,P18,18,C,1,Code and Chat,1,went over the INSTRUCTIONS.md file first
+715,P18,18,C,1,Code and Chat,2,then roughly skimmed the srs.md file
+716,P18,18,C,1,Code and Chat,3,opened the Figma wireframe
+717,P18,18,C,1,Code and Chat,4,copied and pasted the srs.md and link to the Figma UI design to the Google AI Studio and prompted a brief context about the task
+718,P18,18,C,1,Code and Chat,5,"the AI said it cannot access the image and UIs in the Figma due to the private link, and he decided to follow the instructions of the requirements list by the AI against the UI design"
+719,P18,18,C,1,Code and Chat,6,found the first problem (inconsistent nav bar across the page)
+720,P18,18,C,1,Code and Chat,7,prompted AI to list the mismatched specifications and user story and he would manually checking the problems and passed the problems to the AI to record the problems
+721,P18,18,C,1,Code and Chat,8,continued checking the srs.md against the wireframe one by one and tried to found the the next problem (the Register Now button in the sold out event detail page)
+722,P18,18,C,1,Code and Chat,9,prompted it to the AI for record
+723,P18,18,C,1,Code and Chat,10,continued checking the srs.md against the wireframe design and found the next problem (mismatched price of an event in the event listing and detail page)
+724,P18,18,C,1,Code and Chat,11,prompted the problem to AI for record
+725,P18,18,C,1,Code and Chat,12,continued checking the srs.md against the wireframe design and found the next problem (missing required/optional label in the form fields)
+726,P18,18,C,1,Code and Chat,13,prompted the problem to AI for record
+727,P18,18,C,1,Code and Chat,14,read the example in the REPORT1.md file
+728,P18,18,C,1,Code and Chat,15,entered the prompts and waited for the AI to generate the final table
+729,P18,18,C,1,Code and Chat,16,copied and pasted each item in a row one by one to the REPORT1.md table without checking them
+730,P18,18,C,2,,1,read through the INSTRUCTIONS.md to understand the task
+731,P18,18,C,2,,2,followed the step to start the server and run the app
+732,P18,18,C,2,,3,copied and pasted the 10 heuristics table to the AI and decided to navigate the app himself and wrote down the problems to the AI for record
+733,P18,18,C,2,,4,used and interacted with the app
+734,P18,18,C,2,,5,went to the event detail page and found there are two Register Now buttons on the page and prompted that to the AI
+735,P18,18,C,2,,6,tried to register an event and tried to leave the email field blank to see if there’s any problem
+736,P18,18,C,2,,7,tried to click the Add to Calendar button and found that didn’t work and prompt it to the AI
+737,P18,18,C,2,,8,tried using the search and filter feature
+738,P18,18,C,2,,9,tried to cancel an event and found there’s no confirmation and prompted the problem to the AI
+739,P18,18,C,2,,10,"he found three problems and can’t find the last problem, so he went to the 10 heuristics table again to read through them in details"
+740,P18,18,C,2,,11,copied and pasted the REPORT2.md file into the AI and asked it to fill in the table based on the three problems he found
+741,P18,18,C,2,,12,copied and pasted each item in a row one by one into the REPORT2.md file without checking them
+742,P18,18,C,2,,13,went to the MyRegistration page and checked the registered events and found that there are no details about the registered event and prompted it to the AI to update the table
+743,P18,18,C,2,,14,copied and pasted each item in a row one by one of the last problem into the REPORT2.md file without checking them
+744,P18,18,C,3,,1,read the INSTRUCTIONS.md file and went to the repository to download the design mockup PDF
+745,P18,18,C,3,,2,"followed the instructions to start the server, run the app, and registered 2 events"
+746,P18,18,C,3,,3,skimmed the mockup design screen by screen
+747,P18,18,C,3,,4,copied and pasted the File to Edit section to the AI
+748,P18,18,C,3,,5,copied and pasted the MyRegisterationView.js and components.css source code to the AI
+749,P18,18,C,3,,6,he said he want to update the design PDF to the AI and was banned by the researcher due to study design setting
+750,P18,18,C,3,,7,so he checked the design mockup and prompted the details regarding the feature back and forth by adding more details
+751,P18,18,C,3,,8,copied and pasted the updated code into the source files
+752,P18,18,C,3,,9,refreshed the page and checked the feature by interacting with it
+753,P18,18,C,3,,10,asked the researcher whether he needs to implement the feature that follow the exact style (as best as he can)
+754,P18,18,C,3,,11,prompted the AI more contexts about feature to make sure it covers it exactly look like the design mock and checked the feature & design mock back and forth
+755,P18,18,C,3,,12,copied and pasted the updated portion of the code to the source files
+756,P18,18,C,3,,13,checked the feature again via interacting with it and found slightly off for the style and feature format
+757,P18,18,C,3,,14,prompted more contexts to the AI and found “An External Error” message and he refreshed the page and all the conversations was gone
+758,P18,18,C,3,,15,he decided to end the task and said he was done
+759,P19,19,E,1,Use Code and Chat,1,read the INSTRUCTIONS.md file and copied and pasted the example opening prompt to the AI
+760,P19,19,E,1,Use Code and Chat,2,uploaded the srs.md file to the AI
+761,P19,19,E,1,Use Code and Chat,3,checked the Section 3 Functional Requirements in the srs.md against the wireframe screen by screen and found the first mismatch (inconsistent nav bar)
+762,P19,19,E,1,Use Code and Chat,4,reported the first problem for the first two items
+763,P19,19,E,1,Use Code and Chat,5,took screenshots of all the UIs in Figma and the format for the REPORT1.md file to the AI
+764,P19,19,E,1,Use Code and Chat,6,checked the problems found by the AI
+765,P19,19,E,1,Use Code and Chat,7,removed the previously reported problem in the first row
+766,P19,19,E,1,Use Code and Chat,8,read the first problem report by the AI item by item and went to the REPORT1.md to report the first problem in her own words in the table
+767,P19,19,E,1,Use Code and Chat,9,checked the second generated problem by the AI against the wireframe to confirm the AI found the correct problem
+768,P19,19,E,1,Use Code and Chat,10,reported the second problem in the table by re-wording her own language
+769,P19,19,E,1,Use Code and Chat,11,"while reporting the problem, checked the AI-generated problem against the srs.md and the wireframe to confirm the information"
+770,P19,19,E,1,Use Code and Chat,12,reported the third problem in the table by re-wording her own language
+771,P19,19,E,1,Use Code and Chat,13,"while reporting the problem, checked the AI-generated problem against the srs.md and the wireframe to confirm the information"
+772,P19,19,E,1,Use Code and Chat,14,"due to the limited time left, she checked the last problem generated by the AI quickly"
+773,P19,19,E,1,Use Code and Chat,15,reported the last problem in her own words without having the time to check against the srs.md and wireframe
+774,P19,19,E,2,Use Code and Chat & Real Time,1,briefly went through the INSTRUCTIONS.md and skimmed through the 10 heuristics
+775,P19,19,E,2,Use Code and Chat & Real Time,2,followed the steps to start the server
+776,P19,19,E,2,Use Code and Chat & Real Time,3,copied and pasted the example opening prompt to the AI
+777,P19,19,E,2,Use Code and Chat & Real Time,4,browsed each page of the web app
+778,P19,19,E,2,Use Code and Chat & Real Time,5,"took screenshots of the event list, My Registration, About, and the FAQs pages to the AI"
+779,P19,19,E,2,Use Code and Chat & Real Time,6,prompted the information regarding what she needed to find the usability issues based on the 10 Nielsen’s Heuristics guidelines and copied and pasted the REPORT2.md file to the AI
+780,P19,19,E,2,Use Code and Chat & Real Time,7,"for the first usability issue generated by the AI, she read through each item and checked it against the EventConnect app to make sure it’s true"
+781,P19,19,E,2,Use Code and Chat & Real Time,8,reported the first problem by re-wording in her own words
+782,P19,19,E,2,Use Code and Chat & Real Time,9,"for the second usability issue generated by the AI, she read through each item and checked it against the EventConnect app to make sure it’s correct"
+783,P19,19,E,2,Use Code and Chat & Real Time,10,reported the second problem by re-wording in her own words in the table
+784,P19,19,E,2,Use Code and Chat & Real Time,11,"for the third usability issue generated by the AI, she read through each item and checked it against the EventConnect app to make sure it’s correct"
+785,P19,19,E,2,Use Code and Chat & Real Time,12,reported the third problem by re-wording in her own words in the table
+786,P19,19,E,2,Use Code and Chat & Real Time,13,accidentally close the code and chat feature but still has the last problem she needed to find
+787,P19,19,E,2,Use Code and Chat & Real Time,14,"instead open the Real Time feature, and shared the screen with the AI and asked AI to spot a usability issue in the event listing page"
+788,P19,19,E,2,Use Code and Chat & Real Time,15,the AI mentioned three related problems that she already reported before and she asked for another one
+789,P19,19,E,2,Use Code and Chat & Real Time,16,the AI replied with voice interactive mode
+790,P19,19,E,2,Use Code and Chat & Real Time,17,she followed what the AI said and reported the last usability issue and asked the AI replied each item one by one and wrote it down in her own words
+791,P19,19,E,3,"Use Code and Chat, speech-to-text feature",1,Read the INSTRUCTIONS.md file and followed the instructions to start the server and register 2 events
+792,P19,19,E,3,"Use Code and Chat, speech-to-text feature",2,downloaded the design mockup file and two source code files and uploaded them to the AI
+793,P19,19,E,3,"Use Code and Chat, speech-to-text feature",3,used the speech-to-text feature in Code and Chat and asked the AI that she needed to implement a feature in an app and asked it to guide her throughout the process
+794,P19,19,E,3,"Use Code and Chat, speech-to-text feature",4,the AI generated the updated source code for the .js and .css files
+795,P19,19,E,3,"Use Code and Chat, speech-to-text feature",5,"before using the code, she asked the AI about why she needed this code and asked for guidance behind the source code"
+796,P19,19,E,3,"Use Code and Chat, speech-to-text feature",6,asked the AI more questions regarding the purposes of the souce code and where she need to put the code into the file
+797,P19,19,E,3,"Use Code and Chat, speech-to-text feature",7,"after the AI generated the code with reasons behind each added code block with comments, she read each new added block before copied and pasted in the files"
+798,P19,19,E,3,"Use Code and Chat, speech-to-text feature",8,"after copied and pasted the blocks, she copied and pasted the whole .js file to the AI for confirmation that she is correct"
+799,P19,19,E,3,"Use Code and Chat, speech-to-text feature",9,accidentally close the AI conversation and the session is cleared
+800,P19,19,E,3,"Use Code and Chat, speech-to-text feature",10,restarted a new conversation and uploaded all the relevant files again
+801,P19,19,E,3,"Use Code and Chat, speech-to-text feature",11,copied and pasted the corresponding code again into the files
+802,P19,19,E,3,"Use Code and Chat, speech-to-text feature",12,refresh the app and saw the update for the feature but the style is not correct
+803,P19,19,E,3,"Use Code and Chat, speech-to-text feature",13,prompted the AI to fix the styling issue for the feature
+804,P19,19,E,3,"Use Code and Chat, speech-to-text feature",14,copied and pasted the update code into the files and checked the updated feature and found out that it’s still not matching the design’s style
+805,P19,19,E,3,"Use Code and Chat, speech-to-text feature",15,asked the AI that the style is still not correct and asked the AI to follow the pdf design to updated the code
+806,P19,19,E,3,"Use Code and Chat, speech-to-text feature",16,copied and pasted the updated code and time was up
+807,P20,20,C,1,didn’t use AI,1,read through the INSTRUCTIONS.md line by line and followed the steps to open the Figma wireframe and srs.md
+808,P20,20,C,1,didn’t use AI,2,split the windows into two (left side is the srs.md and right side is the UI wireframe)
+809,P20,20,C,1,didn’t use AI,3,read through the srs.md line by line and checked it against the wireframe screen by screen to find the mismatches
+810,P20,20,C,1,didn’t use AI,4,found three mismatches and went to the REPORT1.md file to report the first problem herself
+811,P20,20,C,1,didn’t use AI,5,went back to check the srs.md for the mismatches per requirements
+812,P20,20,C,1,didn’t use AI,6,reported the 2nd and 3rd mismatches herself by checking the srs.md and wireframe to confirm
+813,P20,20,C,1,didn’t use AI,7,checked the srs.md again to try to find the last problem
+814,P20,20,C,1,didn’t use AI,8,reported the last mismatch in the REPORT1.md file herself
+815,P20,20,C,2,Code and Chat and text-file upload,1,read the INSTRUCTIONS.md and briefly went through the 10 heuristics table
+816,P20,20,C,2,Code and Chat and text-file upload,2,followed the steps to start the server and run the app
+817,P20,20,C,2,Code and Chat and text-file upload,3,started interacting with the app by using the app like a real user and said she decided to use the AI
+818,P20,20,C,2,Code and Chat and text-file upload,4,browsed the project app_task2 folder and downloaded the index.html file and uploaded it to the AI and prompted whether it follows Nielsen’s 10 Usability Heuristics and to find any additional usability problems
+819,P20,20,C,2,Code and Chat and text-file upload,5,meanwhile uploaded the REPORT2.md problem report table to the AI
+820,P20,20,C,2,Code and Chat and text-file upload,6,checked the reported problems (“Summary Table”) generated by the AI against the application
+821,P20,20,C,2,Code and Chat and text-file upload,7,she continued to use the app and found the Add to Calendar button doesn’t work and reported that to the AI for record
+822,P20,20,C,2,Code and Chat and text-file upload,8,she also found that there are two Register Now buttons
+823,P20,20,C,2,Code and Chat and text-file upload,9,tried to register an event
+824,P20,20,C,2,Code and Chat and text-file upload,10,checked more via using the app (About/FAQ pages)
+825,P20,20,C,2,Code and Chat and text-file upload,11,followed the previous “Summary Table” generated by the AI and wrote down each problem (1-4) by herself into the table
+826,P20,20,C,2,Code and Chat and text-file upload,12,switched the Markdown preview and editor views to confirm the edit in the table
+827,P20,20,C,3,code and chat and text-file upload,1,"read the INSTRUCTIONS.md line by line and followed the steps to start the server, run the app, and register 3 events"
+828,P20,20,C,3,code and chat and text-file upload,2,downloaded and opened the design mockup PDF
+829,P20,20,C,3,code and chat and text-file upload,3,she decided to upload the source code file and prompt the feature to the AI
+830,P20,20,C,3,code and chat and text-file upload,4,uploaded the index.html file
+831,P20,20,C,3,code and chat and text-file upload,5,prompted an overview of the new feature to the AI and provided background about which files she needed to edit
+832,P20,20,C,3,code and chat and text-file upload,6,"provided more details about the feature’s elements by going through the design mockup screen by screen and elaborated very details (text, layout, and elements needed, etc.) for each screen to the AI"
+833,P20,20,C,3,code and chat and text-file upload,7,uploaded the MyRegistrationView.js and components.css to the AI for more contexts
+834,P20,20,C,3,code and chat and text-file upload,8,copied and pasted the updated source code into the files
+835,P20,20,C,3,code and chat and text-file upload,9,refreshed the app and checked the updated feature against the design in the mockup the file and found there’re some mismatches for the feature
+836,P20,20,C,3,code and chat and text-file upload,10,went back to the AI and describe the first mismatch (positions of the checkbox for each registration card on the left side instead of the right side end) to the AI for changes
+837,P20,20,C,3,code and chat and text-file upload,11,copied and paster the updated .js and .css code into the files
+838,P20,20,C,3,code and chat and text-file upload,12,refreshed the app and found that problem is fixed
+839,P20,20,C,3,code and chat and text-file upload,13,"prompted the last fix (the position of the cancel pop up window and the exact text that each element needed “x selected,” “Clear”) to the AI for change"
+840,P20,20,C,3,code and chat and text-file upload,14,copied and paster the updated .js and .css code into the files
+841,P20,20,C,3,code and chat and text-file upload,15,refreshed the app and found that problem is fixed
+842,P21,21,E,1,Real Time Live Screensharing,1,"read the INSTRUCTIONS.md file line by line, used Google Translate to translate some words (due to not being familiar with the words as an international student)"
+843,P21,21,E,1,Real Time Live Screensharing,2,opened all related files (srs.md and Figma)
+844,P21,21,E,1,Real Time Live Screensharing,3,opened the screen-sharing feature and shared all the details in the srs.md by scrolling down slowly
+845,P21,21,E,1,Real Time Live Screensharing,4,then shared the Figma and REPORT1.md to the AI for more context and described what he needed to do
+846,P21,21,E,1,Real Time Live Screensharing,5,"shared screen 1, and the AI found that it misses the text search feature"
+847,P21,21,E,1,Real Time Live Screensharing,6,"did the same flow to go over and share the screen 2, 3, and 4 to the AI to find the problem"
+848,P21,21,E,1,Real Time Live Screensharing,7,after that he asked the AI whether it remembers all the problems/mismatch and ask it help him to fill the first problem one by one
+849,P21,21,E,1,Real Time Live Screensharing,8,the AI talked too fast and he can’t follow for the typing and asked the AI to slow down
+850,P21,21,E,1,Real Time Live Screensharing,9,followed the same steps to report the problem one by one and he asked the AI to dictate slowly while he’s typing
+851,P21,21,E,1,Real Time Live Screensharing,10,then moved on to the third problem and asked the AI to repeat each item in the row one by one slowly
+852,P21,21,E,1,Real Time Live Screensharing,11,again asked the AI to repeat slowly so he can follow and type
+853,P21,21,E,1,Real Time Live Screensharing,12,then followed the same steps to report the last problem one by oen in the row
+854,P21,21,E,1,Real Time Live Screensharing,13,asked the AI to be slow down again and again and finished the last problem report
+855,P21,21,E,2,Real Time Live Screensharing,1,read the INSTRUCTIONS.md line by line and followed the steps to start the server and run the app
+856,P21,21,E,2,Real Time Live Screensharing,2,went over the INSTRUCTIONS.md and REPORT2.md by sharing it with the AI so it has the information and verbally gave more task information to the AI
+857,P21,21,E,2,Real Time Live Screensharing,3,Went to the event listing page and asked the AI to see if there are any issues on this page
+858,P21,21,E,2,Real Time Live Screensharing,4,then went to the event details page and asked whether the AI spotted any issues (but it missed it)
+859,P21,21,E,2,Real Time Live Screensharing,5,"he spotted the two Register Now buttons and asked the AI whether this is a usability problem and the AI said yes (H8), he said to AI “you should be carefully checking the page cause I might miss the usability issues”"
+860,P21,21,E,2,Real Time Live Screensharing,6,then went to register an event workflow and asked the AI to spot any problem
+861,P21,21,E,2,Real Time Live Screensharing,7,after entered the information and tried to reload each step and to see whether there’s any problem with the usability
+862,P21,21,E,2,Real Time Live Screensharing,8,he tried to cancel an event and the AI spot that there’s missing a confirmation dialog for canceling an event and he asked the AI to mark that down
+863,P21,21,E,2,Real Time Live Screensharing,9,went to the FAQ and the About pages and asked the AI to check whether there’s feature/element that violating the usability and the AI reported the 4th problem
+864,P21,21,E,2,Real Time Live Screensharing,10,"but before he started reporting the problems, he want to go to check the search box feature and found that the sold out event’s event detail button is still abled"
+865,P21,21,E,2,Real Time Live Screensharing,11,he decided to report the problems in the table and asked the AI to be slowly dictate while he was typing one by one
+866,P21,21,E,2,Real Time Live Screensharing,12,reported the first problem from what AI said item by item in the first row
+867,P21,21,E,2,Real Time Live Screensharing,13,reported the second problem from what AI said item by item in the second row
+868,P21,21,E,2,Real Time Live Screensharing,14,reported the third problem from what AI said item by item in the third row
+869,P21,21,E,2,Real Time Live Screensharing,15,"reported the forth problem from what AI said item by item in the fourth row, but didn’t finish on time"
+870,P21,21,E,3,"Code and Chat, File upload",1,"read the INSTRUCTIONS.md file line by line and followed the instructions to start the server, run the app, and register 3 events to start"
+871,P21,21,E,3,"Code and Chat, File upload",2,"downloaded the mockup design PDF and the related source code files and uploaded them to the AI, and asked it to help him implement the feature"
+872,P21,21,E,3,"Code and Chat, File upload",3,"but before he prompted it, he wanted to check the My Registration page in the app and went through the .js file to try to locate the component"
+873,P21,21,E,3,"Code and Chat, File upload",4,"while waiting, he went to the .js file and tried to add the element/component himself by understanding and locating corresponding parts (checkbox for the cancel)"
+874,P21,21,E,3,"Code and Chat, File upload",5,asked the AI which function is responsible for the register an event in the MyRegistrationView.js file and the AI said there’s no such function responsible for that
+875,P21,21,E,3,"Code and Chat, File upload",6,asked the AI to update the code to add the checkbox and the “Select All” for him
+876,P21,21,E,3,"Code and Chat, File upload",7,copied and pasted the updated code and the checkboxes was added
+877,P22,22,C,1,Code and Chat,1,read the INSTRUCTIONS.md file line by line and pulled up the srs.md and Figma wireframe
+878,P22,22,C,1,Code and Chat,2,copied and pasted the srs.md document to the AI and asked it to help check the problems without giving the Figma source directly
+879,P22,22,C,1,Code and Chat,3,asked the AI what’s the efficient way to approach it
+880,P22,22,C,1,Code and Chat,4,the AI replied with a list of requirements checklist (requirement list with [yes/no]) for him to check against the wireframe
+881,P22,22,C,1,Code and Chat,5,he split the windows into two (left google ai studio with the checklist in the prompts & right the wireframe)
+882,P22,22,C,1,Code and Chat,6,he then checked the requirements checklist against the wireframe design screen by screen and marked the [yes/no] when there were no or there were problems and also prompted the problems with some elaborations
+883,P22,22,C,1,Code and Chat,7,entered the revised requirements checklist and waited for responses
+884,P22,22,C,1,Code and Chat,8,copied and pasted the REPORT1.md’s five items description to the AI and asked it to help fill out the problems based on the format
+885,P22,22,C,1,Code and Chat,9,"asked the AI to make it to report in the table format (requirement violated, problem type, UI screen and element, etc.)"
+886,P22,22,C,1,Code and Chat,10,copied and pasted the whole AI-generated table as Markdown file into the REPORT1.md
+887,P22,22,C,2,Code and Chat,1,read the INSTRUCTIONS.md line by line and followed the steps to start the server and run the app
+888,P22,22,C,2,Code and Chat,2,"copied and pasted the task2’s description (task 2 background, 10 heuristic tables, etc.) in the INSTRUCTIONS.md file to the AI for contexts"
+889,P22,22,C,2,Code and Chat,3,the AI replied and a list of app’s interactions and potential violated heuristics
+890,P22,22,C,2,Code and Chat,4,he followed the AI’s suggestions to interact with the app and tried to spot the usability issues
+891,P22,22,C,2,Code and Chat,5,registered an event and cancelled an event (found that there’s no confirmation pop up)
+892,P22,22,C,2,Code and Chat,6,registered an event and found whether there’s a back and cancel buttons
+893,P22,22,C,2,Code and Chat,7,found an event that was sold out (there’s a Registration Close button)
+894,P22,22,C,3,Code and Chat,1,"read the INSTRUCTIONS.md file roughly and followed the instructions to start the server, run the app, opened the related source code files"
+895,P22,22,C,3,Code and Chat,2,split the windows into two (left is the codespace & right is the Google AI Studio
+896,P22,22,C,3,Code and Chat,3,"copied and pasted the task3’s descriptions (background, etc.) from INSTRUCTIONS.md to the AI and prompted his task goal with elaboration for more contexts"
+897,P22,22,C,3,Code and Chat,4,downloaded and uploaded the source code files (MyRegistrationView.js and components.css) to the AI
+898,P22,22,C,3,Code and Chat,5,continued added more details to the AI by describing the new feature’s elements layouts/formats screen by screen in the mockup design wireframe
+899,P22,22,C,3,Code and Chat,6,copied and pasted the updated the source code files
+900,P22,22,C,3,Code and Chat,7,refreshed the app and found that there’s no events registered
+901,P23,23,E,1,Use Code and Chat & Real Time Screensharing,1,Roughly skimmed the INSTRUCTIONS.md file and read through the srs.md and REPORT1.md files to get the overview of the task
+902,P23,23,E,1,Use Code and Chat & Real Time Screensharing,2,shared screen of the srs.md file and Figma wireframe to the AI for contexts and asked it to help check the mismatches
+903,P23,23,E,1,Use Code and Chat & Real Time Screensharing,3,copied and pasted the srs.md and reported 5 items in the REPORT1.md file into the chat below for more contexts
+904,P23,23,E,1,Use Code and Chat & Real Time Screensharing,4,went over the Figma wireframe screen by screen to the AI
+905,P23,23,E,1,Use Code and Chat & Real Time Screensharing,5,the AI only found one problem without further actions
+906,P23,23,E,1,Use Code and Chat & Real Time Screensharing,6,stop the Real Time feature
+907,P23,23,E,1,Use Code and Chat & Real Time Screensharing,7,"use the code and chat feature and copied and pasted all the srs.md, INSTRUCTIONS.md, and screenshots each UIs in the Figma to the AI in the prompt in the code and chat for contexts"
+908,P23,23,E,1,Use Code and Chat & Real Time Screensharing,8,the AI responded with 4 issues into the list of items format
+909,P23,23,E,1,Use Code and Chat & Real Time Screensharing,9,copied and pasted the format of the REPORT1.md table into the AI and asked it to report the problems into the table format
+910,P23,23,E,1,Use Code and Chat & Real Time Screensharing,10,copied and pasted each item one by one into the rows in the table
+911,P23,23,E,1,Use Code and Chat & Real Time Screensharing,11,went to the AI and prompted it to ask it to double check whether the mismatches it found was correct
+912,P23,23,E,2,Code and Chat,1,skimmed the INSTRUCTIONS.md file roughly and followed the instructions to start the server and run the app
+913,P23,23,E,2,Code and Chat,2,used and interacted with the app and found that there are two Register Now buttons in the event details page (thinking of that would be one of the usability issue)
+914,P23,23,E,2,Code and Chat,3,tried to register an event and refresh the My Registration page
+915,P23,23,E,2,Code and Chat,4,opened the Code and Chat feature and copied and pasted the 10 heuristics table to it for analyze them for contexts
+916,P23,23,E,2,Code and Chat,5,"screenshots the event listing page, event details page, and registration steps pages to the AI and asked it to find any usability issues"
+917,P23,23,E,2,Code and Chat,6,the AI gave 5 usability problems based on the screenshots
+918,P23,23,E,2,Code and Chat,7,asked the AI what could it want him to test out
+919,P23,23,E,2,Code and Chat,8,the AI asked it to test the Registration flow
+920,P23,23,E,2,Code and Chat,9,he followed the suggestions from the AI to test out the Registration flow and tried to find any usability issues
+921,P23,23,E,2,Code and Chat,10,"added more screenshots (About, FAQ pages) to the AI for more contexts and find more usability problems"
+922,P23,23,E,2,Code and Chat,11,copied and pasted each item one by one into the rows in the table
+923,P23,23,E,2,Code and Chat,12,went to the AI and prompted it to ask it to double check whether the problems it found was correct and based on the images he provided
+924,P23,23,E,3,Code and Chat,1,"skimmed the INSTRUCTIONS.md file and followed the instructions to start the server, run the app, and register events"
+925,P23,23,E,3,Code and Chat,2,downloaded the mockup design PDF and skimmed through the design
+926,P23,23,E,3,Code and Chat,3,opened and downloaded the source code files (MyRegistrationView.js and components.css)
+927,P23,23,E,3,Code and Chat,4,"uploaded the source code files, mockup design PDF, and example prompt (in the INSTRUCTIONS.md) to the AI and asked it to implement the feature"
+928,P23,23,E,3,Code and Chat,5,copied and pasted the updated code into the files
+929,P23,23,E,3,Code and Chat,6,checked the INSTRUCTIONS.md file and asked AI how to check whether the feature is implemented and added correctly
+930,P23,23,E,3,Code and Chat,7,followed the checklist steps generated by the AI to check the feature: refreshed the page
+931,P23,23,E,3,Code and Chat,8,checked the events
+932,P23,23,E,3,Code and Chat,9,de-checked the events
+933,P23,23,E,3,Code and Chat,10,"cancel multiple events at the same time, etc"
+934,P23,23,E,3,Code and Chat,11,check the feature end-to-end
+935,P23,23,E,3,Code and Chat,12,screenshots the “No registration page” into the AI and asked it whether the last screen design was meet
+936,P24,24,C,1,,1,read the INSTRUCTIONS.md file line by line and opened the srs.md and Figma
+937,P24,24,C,1,,2,read and skimmed the srs.md file
+938,P24,24,C,1,,3,"copied and paste the example prompt provided and the srs.md to the AI, and added more contexts by describing each wireframe pages name (Event Listing, Event Details, Registration pages) and entered"
+939,P24,24,C,1,,4,"while waiting for AI response, he went to read the srs.md and tried to compare it against the UI designs himself"
+940,P24,24,C,1,,5,went back to the AI and it gave a list of requirements check
+941,P24,24,C,1,,6,"described what he saw for the wireframe designs to the AI (e.g., the first wireframe shows…; the second wireframe is you can…; the third wireframe is…; and the last wireframe is…)"
+942,P24,24,C,1,,7,"the AI generated with a list of requirements checkboxes, he compared the wireframe against the checkboxes (found missing a keyword search box)"
+943,P24,24,C,1,,8,"in the srs.md, used the control-F to find the related part that mentioning the “keyword”"
+944,P24,24,C,1,,9,reported the first mismatch himself in the table
+945,P24,24,C,1,,10,found the second problem Register Now button is not gray/disabled for a sold out event
+946,P24,24,C,1,,11,reported the second mismatch himself in the table
+947,P24,24,C,1,,12,time up
+948,P24,24,C,2,,1,skimmed the INSTRUCTIONS.md file and followed the instructions to start the server and run the app
+949,P24,24,C,2,,2,"interacted with the app by using the keyword search, category search, and sorting features and tried to find usability problem"
+950,P24,24,C,2,,3,"just the MyRegistrations, About, and FAQ tabs quickly"
+951,P24,24,C,2,,4,checked the event details page and found two Register Now buttons
+952,P24,24,C,2,,5,tried to register an event and double checked the registered event’s details with the event listing page event’s details
+953,P24,24,C,2,,6,tried to register an event twice using the same name and email and didn’t find any more problems
+954,P24,24,C,2,,7,went to the 10 heuristics table and read through them and tried to find problems that he just interacted with the app based on these heuristics
+955,P24,24,C,2,,8,went to the detail page and clicked the Add to Calendar button and found it didn’t work
+956,P24,24,C,2,,9,found that the registered event doesn’t have the confirmation-code (which showed right after the event registration) in the MyRegistrations page (categorized it as H5 violation)
+957,P24,24,C,2,,10,reported that missing confirmation-code problem himself in the table
+958,P24,24,C,2,,11,tried to find the second usability issue by read through the 10 heuristics again
+959,P24,24,C,2,,12,he found that cancel an event without any confirmation popup immediately and categorized that as violating the H9
+960,P24,24,C,2,,13,reported that cancel without confirmation problem himself in the table
+961,P24,24,C,2,,14,went to the app and used the keyword search feature by searching date/location and tried to find another usability problem
+962,P24,24,C,2,,15,tried to register an event but times up
+963,P24,24,C,3,,1,"read the INSTRUCTIONS.md file line by line and followed the instructions to start the server, run the app and registered 2 events"
+964,P24,24,C,3,,2,opened the relevant source code files
+965,P24,24,C,3,,3,"copied and pasted the INSTRUCTIONS.md, MyRegistrationView.js, and components.css for contexts to the AI"
+966,P24,24,C,3,,4,copied and pasted the updated code generated by the AI
+967,P24,24,C,3,,5,"refreshed the page and found the feature is updated and checked the feature against the give mock-up design, found some inconsistencies with the design"
+968,P24,24,C,3,,6,went to the AI to provide more detailed contexts by describing the changes needed to make for the feature and checked the mock up design back and forth while describing the changes
+969,P24,24,C,3,,7,refreshed the page and found some styling mismatches
+970,P24,24,C,3,,8,described the changes to the AI for more contexts regarding the styling
+971,P24,24,C,3,,9,copied and pasted the code and refreshed the page found that other pages’ styling were gone (because he replaced the whole components.css with only the MyRegistration page portion of the css code generated by the AI)
+972,P24,24,C,3,,10,reversed back the css code and updated the css code only for the MyRegistration page
+973,P24,24,C,3,,11,refreshed the page and tried the feature end-to-end to make sure it works like the design
+974,P25,25,E,1,Code and Chat & Real Time,1,skimmed through the INSTRUCTIONS.md and open the srs.md and Figma wireframe design
+975,P25,25,E,1,Code and Chat & Real Time,2,prompted to ask the AI to help him review the wireframe against the srs.md file following the REPORT1.md format
+976,P25,25,E,1,Code and Chat & Real Time,3,"copied and pasted the contents in the srs.md, Figma external link, and the table format items for more contexts to the AI"
+977,P25,25,E,1,Code and Chat & Real Time,4,end the code and chat conversation and used the real time feature
+978,P25,25,E,1,Code and Chat & Real Time,5,turned on the Talk feature and prompt the task requirement (similarly prompt as previous including the srs.md and REPORT1.md)
+979,P25,25,E,1,Code and Chat & Real Time,6,shared the screen to the AI for the Figma
+980,P25,25,E,1,Code and Chat & Real Time,7,asked the AI to find any mismatches
+981,P25,25,E,1,Code and Chat & Real Time,8,the AI replied with the first problem (inconsistent nav bar)
+982,P25,25,E,1,Code and Chat & Real Time,9,asked the AI to write the problems down following the format and copied and pasted the REPORT1.md format as prompt
+983,P25,25,E,1,Code and Chat & Real Time,10,continue to talk to the AI back and forth to find the problems via showing the Figma wireframe
+984,P25,25,E,1,Code and Chat & Real Time,11,the AI returned the four problems following the items in the REPORT1.md and not in a formatted form
+985,P25,25,E,1,Code and Chat & Real Time,12,he talked to the AI and asked it to return them in a format but didn’t work (the real time feature replied with transcription but not like a chat feature)
+986,P25,25,E,1,Code and Chat & Real Time,13,he copied and pasted each item one by one of the row in the table from the AI
+987,P25,25,E,2,Real Time,1,skimmed the INSTRUCTIONS.md file and followed the instructions to start the server and run the app
+988,P25,25,E,2,Real Time,2,"used the Real Time’s Talk feature, copied and pasted the example prompt to the AI, asked the AI to help him check the application’s usability issues"
+989,P25,25,E,2,Real Time,3,copied and pasted the REPORT2.md to the AI and asked the AI to report the problems later to follow the format
+990,P25,25,E,2,Real Time,4,confirmed whether the AI can see his screen back and forth cause the Google AI Studio had some technical issues (the screen-sharing is not working properly)
+991,P25,25,E,2,Real Time,5,after a while (~2 minutes) the issues were gone
+992,P25,25,E,2,Real Time,6,he started sharing the screen and asked the AI to help him check the usability problems of the app
+993,P25,25,E,2,Real Time,7,"he used and interacted with the AI by using the features (register events, browse the events, search and filter feature, browse the About and FAQ tabs, etc.) and showed to the AI of his interactions meanwhile"
+994,P25,25,E,2,Real Time,8,asked the AI: “what do you want me to look at right now” after interacting with the app himself
+995,P25,25,E,2,Real Time,9,not sure the event details page contains enough details or not and asked the AI regarding this
+996,P25,25,E,2,Real Time,10,continued talked and shared the screen with the AI to check back and forth and asked AI to keep the problems in records
+997,P25,25,E,2,Real Time,11,"after the AI helped him find the 4 problems, copied and pasted the REPORT2.md to the AI and asked the AI to report the problems to follow the format"
+998,P25,25,E,2,Real Time,12,copied and pasted the problems generated by the AI one by one into the table
+999,P25,25,E,3,Real Time,1,skimmed the INSRUCTIONS.md file and followed the instructions to start the server and run the app
+1000,P25,25,E,3,Real Time,2,shared the screen and talked to the AI about the task 3 goals
+1001,P25,25,E,3,Real Time,3,showed the AI for the mockup design PDF regarding the feature
+1002,P25,25,E,3,Real Time,4,browsed the source code files and copied and pasted the app.js code to the AI
+1003,P25,25,E,3,Real Time,5,asked the AI what does he need to do in order to implement the feature
+1004,P25,25,E,3,Real Time,6,the AI replied with the overview of the feature implementation
+1005,P25,25,E,3,Real Time,7,he asked the AI to write down the code to him directly
+1006,P25,25,E,3,Real Time,8,the AI replied with updated code but didn’t give any code and he was confused and confirmed back and forth with the AI
+1007,P25,25,E,3,Real Time,9,he asked the AI that he didn't see the code and asked it to paste the updated code in their conversation
+1008,P25,25,E,3,Real Time,10,"AI generated the code, he copied and pasted the code (one-line code with format)"
+1009,P25,25,E,3,Real Time,11,went to the app to register an event
+1010,P25,25,E,3,Real Time,12,asked the AI to correct the code because there’s some syntax/logical issues
+1011,P25,25,E,3,Real Time,13,copied and pasted the updated .js code
+1012,P25,25,E,3,Real Time,14,refreshed the page and looks like the feature is added
+1013,P25,25,E,3,Real Time,15,copied and pasted the components.css source code to the AI and asked it to implement feature following the style
+1014,P25,25,E,3,Real Time,16,registered two events and tested feature end-to-end
+1015,P26,26,C,1,Code and Chat,1,skimmed the INSTRUCTIONS.md file and opened the Figma wireframe design
+1016,P26,26,C,1,Code and Chat,2,read and went over the srs.md file
+1017,P26,26,C,1,Code and Chat,3,checked the srs.md’s requirements list against the wireframe design back and forth and tried to find a mismatch
+1018,P26,26,C,1,Code and Chat,4,found the first problem (missing the keyword search feature) and marked it down in the REPORT1.md file
+1019,P26,26,C,1,Code and Chat,5,continued to check the srs.md against the wireframe and found that second problem & marked it down in the REPORT1.md file
+1020,P26,26,C,1,Code and Chat,6,continued to check the srs.md against the wireframe and found that second problem (sold out event is not present) & marked it down in the REPORT1.md file
+1021,P26,26,C,1,Code and Chat,7,continued to check the srs.md against the wireframe and found that third problem (email is not optional) & marked it down in the REPORT1.md file
+1022,P26,26,C,1,Code and Chat,8,continued to check the srs.md against the wireframe and found that last problem (no FAQ problem) & marked it down in the REPORT1.md file
+1023,P26,26,C,1,Code and Chat,9,"copied and pasted the marked down notes for the 4 problems, the REPORT1.md table format to the AI and asked it to help it report all the problems following the given format"
+1024,P26,26,C,1,Code and Chat,10,copied and pasted and edited based on the content generated by the AI for each item in the row for each founded problems into the table
+1025,P26,26,C,1,Code and Chat,11,"after copied the first two problems, he asked the AI to fill out the table using the markdown format so he can copy and paste directly"
+1026,P26,26,C,1,Code and Chat,12,copied and pasted the entire table and then checked and edited parts of the table’s content based on his own opinions while checked the srs.md and wireframe design back and forth
+1027,P26,26,C,2,Code and Chat,1,skimmed the INSTRUCTIONS.md file and followed the instructions to start the server and run the app
+1028,P26,26,C,2,Code and Chat,2,"interacted with the app and used the features (e.g. search and filter, )"
+1029,P26,26,C,2,Code and Chat,3,copied and pasted the example prompt in the INSTRUCTIONS.md file to the AI and asked the AI to answer only yes or no
+1030,P26,26,C,2,Code and Chat,4,copied and pasted the app’s text layout to the AI for contexts
+1031,P26,26,C,2,Code and Chat,5,asked the AI to help walk him through on finding the heuristic; problems
+1032,P26,26,C,2,Code and Chat,6,"meanwhile, he continued using the app and found there are two Register Now buttons in the event details page and prompted that to AI"
+1033,P26,26,C,2,Code and Chat,7,copied and pasted the REPORT2.md file to the AI and asked it don’t give the proposed redesign to him
+1034,P26,26,C,2,Code and Chat,8,followed the AI generated suggested heuristic walk through and checked them in the app back and forth
+1035,P26,26,C,2,Code and Chat,9,"when he found a mismatch from the AI generated suggestions list in the app, he wrote that down in the prompt for records (e.g., no dark mode; no reset feature, etc.)"
+1036,P26,26,C,2,Code and Chat,10,continued using the app by registering an event
+1037,P26,26,C,2,Code and Chat,11,entered the prompt
+1038,P26,26,C,2,Code and Chat,12,the AI generated table with the Proposed Redesign column
+1039,P26,26,C,2,Code and Chat,13,copied and pasted the text contents of the application to the AI and asked it to propose the redesign and cross referencing the text contents of the application
+1040,P26,26,C,2,Code and Chat,14,"the AI generated the proposed redesign based on other metrics (e.g., cognitive workload) and he asked the AI to generate the proposed redesign based on the heuristics only"
+1041,P26,26,C,2,Code and Chat,15,copied and pasted the table into the REPORT2.md file and no further checking
+1042,P26,26,C,3,Code and Chat,1,"copied and pasted the entire INSTRUCTIONS.md file and followed the instructions to start the server, run the app, and registered 2 events"
+1043,P26,26,C,3,Code and Chat,2,started a new conversation and copied and pasted the example prompt to the AI
+1044,P26,26,C,3,Code and Chat,3,copied and pasted the current text contents and layout of the My Registrations page to the AI for more contexts
+1045,P26,26,C,3,Code and Chat,4,"prompted the AI to act (a role) as a senior software engineer and come up with a plan for implementing the feature, and gave more details regarding the feature by describing the feature’s elements while checked the design mockup back and forth, copied and pasted the .js and .css source code to the AI for more contexts"
+1046,P26,26,C,3,Code and Chat,5,asked the AI to double check it
+1047,P26,26,C,3,Code and Chat,6,asked the AI whether the generated code is the entire file for including the original source code
+1048,P26,26,C,3,Code and Chat,7,copied and pasted the updated code into the files
+1049,P26,26,C,3,Code and Chat,8,"refreshed the page and the feature is updated, finished without checking whether the feature is working or not"
+1050,P27,27,E,1,Real Time & Code and Chat,1,skimmed the INSTRUCTIONS.mf file and opened the srs.md and Figma wireframe
+1051,P27,27,E,1,Real Time & Code and Chat,2,copied and pasted the srs.md file to the AI and asked it to summarize the contents for him
+1052,P27,27,E,1,Real Time & Code and Chat,3,prompted the AI that what he needed to do and asked it to help him review the wireframe against the srs.md
+1053,P27,27,E,1,Real Time & Code and Chat,4,started sharing the screen and showed the wireframe UIs screen by screen
+1054,P27,27,E,1,Real Time & Code and Chat,5,asked the AI to check the wireframe against the srs.md and copied and pasted the srs.md again
+1055,P27,27,E,1,Real Time & Code and Chat,6,he switched back to the Code and Chat to do the task
+1056,P27,27,E,1,Real Time & Code and Chat,7,copied and pasted the Figma link to the AI (but it can’t access to the external link)
+1057,P27,27,E,1,Real Time & Code and Chat,8,screenshot each wireframe and copied and pasted the srs.md as prompt and asked the AI to check the wireframe against the srs.md and find the problems
+1058,P27,27,E,1,Real Time & Code and Chat,9,the AI generate the founded problems in a list of mismatches but not in the REPORT1.md format
+1059,P27,27,E,1,Real Time & Code and Chat,10,copied and pasted the REPORT1.md file to ask the AI to report the problems following the format
+1060,P27,27,E,1,Real Time & Code and Chat,11,copied and pasted the table generated by the AI into the REPORT1.md
+1061,P27,27,E,1,Real Time & Code and Chat,12,checked each problems against the previous (a list of mismatches) to double check it’s correct
+1062,P27,27,E,2,Real Time,1,skimmed the INSTRUCTIONS.md file and followed the instructions to start the server and run the application
+1063,P27,27,E,2,Real Time,2,"opened the Real Time feature, and copied and pasted the example prompt and 10 heuristic table to the AI and asked it to check the app against the 10 usability heuristics, specifically prompt the AI that “Do not give the results until he said Give Me the Results”"
+1064,P27,27,E,2,Real Time,3,"shared the screen to the AI and started interacting with the application (browsing the events, registering an event; checking the My Registration, About, and FAQ tabs, clicking the Add to Calendar button, searching and filtering features, etc.)"
+1065,P27,27,E,2,Real Time,4,"checked the logical issues while interacting with the app (e.g., whether registering an event successfully marked one spot taken, searching and filtering feature working, etc.)"
+1066,P27,27,E,2,Real Time,5,talked to the AI “Give Me the Results” for reporting the usability problems that it found of his interaction with the application
+1067,P27,27,E,2,Real Time,6,copied and pasted the REPORT2.md file to the AI and asked it to report the usability problems following the format
+1068,P27,27,E,2,Real Time,7,copied and pasted the table generated by the AI into the REPORT2.md file
+1069,P27,27,E,2,Real Time,8,he didn’t check because he said he don’t know the heuristics and he assumed the AI is correct
+1070,P27,27,E,3,Code and Chat,1,"skimmed the INSTRUCTIONS.md and followed the instructions to start the server, run the application, and register 3 events"
+1071,P27,27,E,3,Code and Chat,2,skimmed through the mockup design PDF for the feature
+1072,P27,27,E,3,Code and Chat,3,"downloaded the PDF and uploaded it and screenshots the current application’s My Registrations page to the AI in the prompt, and asked it to compare them"
+1073,P27,27,E,3,Code and Chat,4,opened the two source files (MyRegistrationView.js and components.css)
+1074,P27,27,E,3,Code and Chat,5,copied and pasted the two source code to the AI
+1075,P27,27,E,3,Code and Chat,6,"he said what the AI generated to him, he just gonna copied and pasted back into the files"
+1076,P27,27,E,3,Code and Chat,7,copied and pasted the generated code into the file
+1077,P27,27,E,3,Code and Chat,8,restarted the server to refreshed the change for the feature
+1078,P27,27,E,3,Code and Chat,9,used the updated feature to check whether it works and checked the design mockup back and forth
+1079,P28,28,C,1,Code and Chat: file upload & chat prompt,1,read and skimmed the INSTRUCTIONS.md file
+1080,P28,28,C,1,Code and Chat: file upload & chat prompt,2,opened the srs.md file and skimmed the requirements
+1081,P28,28,C,1,Code and Chat: file upload & chat prompt,3,read through the use case and user stories and checked it against the wireframe design in the Figma back and forth
+1082,P28,28,C,1,Code and Chat: file upload & chat prompt,4,found the first problem (missing the keyword search feature)
+1083,P28,28,C,1,Code and Chat: file upload & chat prompt,5,started to report the first problem in the first row in the table of REPORT1.md
+1084,P28,28,C,1,Code and Chat: file upload & chat prompt,6,uploaded the srs.md file to the AI and asked it to give him the functional requirements and a checkboxes list of the requirements
+1085,P28,28,C,1,Code and Chat: file upload & chat prompt,7,meanwhile he went through the user stories real quick
+1086,P28,28,C,1,Code and Chat: file upload & chat prompt,8,checked the AI generated functional requirements v.s. related user cases & user stories and wrote down the possible Requirement Violated column
+1087,P28,28,C,1,Code and Chat: file upload & chat prompt,9,finished reporting the first problem himself
+1088,P28,28,C,1,Code and Chat: file upload & chat prompt,10,continued checked the wireframe against the srs.md requirements and found additional two problems (the sold out event still shows the Register Now button & the mismatched prices between the event listing page and event details page)
+1089,P28,28,C,1,Code and Chat: file upload & chat prompt,11,reported the 2nd problems item by item in the table himself
+1090,P28,28,C,1,Code and Chat: file upload & chat prompt,12,continued checked the srs.md against the wireframe design and found that the registration form screen is missing the step 2
+1091,P28,28,C,1,Code and Chat: file upload & chat prompt,13,reported the 3rd problems item by item in the table himself
+1092,P28,28,C,1,Code and Chat: file upload & chat prompt,14,continued checked the srs.md against the wireframe design and found that all screens are missing the FAQ tab
+1093,P28,28,C,1,Code and Chat: file upload & chat prompt,15,reported the 4th problems item by item in the table himself
+1094,P28,28,C,2,Code and Chat: files upload and chat prompts,1,skimmed and read the INSTRUCTIONS.md file and followed the instructions to start the server and run the application
+1095,P28,28,C,2,Code and Chat: files upload and chat prompts,2,downloaded and uploaded both the INSTRUCTIONS.md and REPORT2.md to the AI and asked it to give him one sentence to summarize the 10 heuristics and give him a template of what the report might look like for each heuristics
+1096,P28,28,C,2,Code and Chat: files upload and chat prompts,3,meanwhile skimmed the REPORT2.md about what he needs to report
+1097,P28,28,C,2,Code and Chat: files upload and chat prompts,4,splitted the windows into two (left the AI and right the application) and tried to use and interact with the app to find the usability problems
+1098,P28,28,C,2,Code and Chat: files upload and chat prompts,5,he found that there are two Register Now buttons in the event detail page
+1099,P28,28,C,2,Code and Chat: files upload and chat prompts,6,he wrote that down to the AI for record
+1100,P28,28,C,2,Code and Chat: files upload and chat prompts,7,"continued using the application to find other usability problems (e.g., checked the event prices, registered an event, cancel an event, signed up the same event twice, used search and filter features, checked the About page, signed up multiple events, clicked the Add to Calendar button in the event details page)"
+1101,P28,28,C,2,Code and Chat: files upload and chat prompts,8,"reported the problems to the AI in the prompt (e.g., no undo a cancel of registration, text search feature shows the events that it shouldn’t, the Add to Calendar didn’t work)"
+1102,P28,28,C,2,Code and Chat: files upload and chat prompts,9,checked the AI generated table regarding the four problems that he gave to see if it makes sense
+1103,P28,28,C,2,Code and Chat: files upload and chat prompts,10,wrote down the problems himself item by item of each row into the table by using his own descriptions after reading through AI-generated descriptions
+1104,P28,28,C,2,Code and Chat: files upload and chat prompts,11,"while reporting the 1st problem, he double-confirmed whether the AI reported problem descriptions are matching the problem he found back and forth and tried to understand whether the heuristic is making sense for the 1st problem"
+1105,P28,28,C,2,Code and Chat: files upload and chat prompts,12,"while reporting the 2nd problem, he double-confirmed whether the AI reported problem descriptions are matching the problem he found back and forth and tried to understand whether the heuristic is making sense for the 2nd problem"
+1106,P28,28,C,2,Code and Chat: files upload and chat prompts,13,"while reporting the 3rd problem, he double-confirmed whether the AI reported problem descriptions are matching the problem he found back and forth and tried to understand whether the heuristic is making sense for the 3rd problem"
+1107,P28,28,C,2,Code and Chat: files upload and chat prompts,14,"while reporting the 4th problem, he double-confirmed whether the AI reported problem descriptions are matching the problem he found back and forth and tried to understand whether the heuristic is making sense for the 4th problem"
+1108,P28,28,C,3,Code and Chat: files upload and chat prompts,1,"skimmed and read the INSTRUCTIONS.md file and followed the instructions to start the server, run the application, and register 2 events"
+1109,P28,28,C,3,Code and Chat: files upload and chat prompts,2,opened the design mockup PDF and skimmed the design screen by screen and continued read the instructions in the INSTRUCTIONS.md file
+1110,P28,28,C,3,Code and Chat: files upload and chat prompts,3,downloaded the .js and .css files and prompted the AI that he needs to “adding a function that allows me to…(descriptions of the feature) and updated the source files that reflect the changes specified below:”
+1111,P28,28,C,3,Code and Chat: files upload and chat prompts,4,splitted the windows into two (left is the AI and right is the PDF)
+1112,P28,28,C,3,Code and Chat: files upload and chat prompts,5,elaborated and prompted the descriptions of each screen in the PDF design for the feature in very specified details
+1113,P28,28,C,3,Code and Chat: files upload and chat prompts,6,checked the design mockup back and forth and prompted more details to the AI for more contexts
+1114,P28,28,C,3,Code and Chat: files upload and chat prompts,7,double-checked he mentioned all the changes before prompting to the AI and asked the AI to tell him what it will do visually before he implement the feature
+1115,P28,28,C,3,Code and Chat: files upload and chat prompts,8,he forgot to upload the files and immediately uploaded the two source files
+1116,P28,28,C,3,Code and Chat: files upload and chat prompts,9,copied and pasted the AI-generated code into the files
+1117,P28,28,C,3,Code and Chat: files upload and chat prompts,10,refreshed the page to see the updated feature
+1118,P28,28,C,3,Code and Chat: files upload and chat prompts,11,splitted the windows into two (left the design mockup and right the application’s update feature page) and checked the updated feature end-to-end against the design mockup and found some styling mismatches
+1119,P28,28,C,3,Code and Chat: files upload and chat prompts,12,prompted the AI for more changes by describing what he wants to make
+1120,P28,28,C,3,Code and Chat: files upload and chat prompts,13,copied and pasted the updated code into the source code files and refreshed the app to check the updates he wants to make real quick
+1121,P28,28,C,3,Code and Chat: files upload and chat prompts,14,times up
+1122,P29,29,E,1,Real Time feature: screensharing and text prompt,1,read the INSTRUCTIONS.md file line by line and opened the wireframe and srs.md
+1123,P29,29,E,1,Real Time feature: screensharing and text prompt,2,read the srs.md line by line and skimmed the wireframe
+1124,P29,29,E,1,Real Time feature: screensharing and text prompt,3,shared the screen to the AI (using the Real Time feature) and went over the srs.md by scrolling down and also shared the wireframe UIs design screen by screen to the AI while talking to the AI to ask it to help spot the problems
+1125,P29,29,E,1,Real Time feature: screensharing and text prompt,4,the AI reported one mismatch (missing the text search field)
+1126,P29,29,E,1,Real Time feature: screensharing and text prompt,5,then she showed the REPORT1.md file to the AI and asked it to report 4 problems to her
+1127,P29,29,E,1,Real Time feature: screensharing and text prompt,6,"AI replied with 4 mismatches (missing text search field, sold out event shows Register Now button, missing the step 2 for the registration, etc.) based on the previous information from the screensharing"
+1128,P29,29,E,1,Real Time feature: screensharing and text prompt,7,she double-checked whether the AI reported mismatches are correct/existed or not by checking the wireframe and srs.md
+1129,P29,29,E,1,Real Time feature: screensharing and text prompt,8,then she decided to fill out the problems by herself in the table as well as talked to the AI to ask for which use case/user story is violated
+1130,P29,29,E,1,Real Time feature: screensharing and text prompt,9,"while found the 1st problem given by the AI and then reported the 1st problem in the table, she checked the srs.md and wireframe back and forth for each item in the problem row"
+1131,P29,29,E,1,Real Time feature: screensharing and text prompt,10,"while found the 2nd problem given by the AI and then reported the 2nd problem in the table, she checked the srs.md and wireframe back and forth for each item in the problem row"
+1132,P29,29,E,1,Real Time feature: screensharing and text prompt,11,"while found the 3rd problem given by the AI and then reported the 3rd problem in the table, she checked the srs.md and wireframe back and forth for each item in the problem row"
+1133,P29,29,E,1,Real Time feature: screensharing and text prompt,12,"while found the 4th problem given by the AI and then reported the 4th problem in the table, she checked the srs.md and wireframe back and forth for each item in the problem row"
+1134,P29,29,E,2,Real Time: screensharing,1,skimmed the INSTRUCTIONS.md and followed the instructions to start the server and run the app
+1135,P29,29,E,2,Real Time: screensharing,2,"followed the INSTRUCTIONS.md suggestions to tried using the app (e.g., opened an event, registered events, browsed event listing page, checked the About page)"
+1136,P29,29,E,2,Real Time: screensharing,3,start sharing the screens to the AI and showed the INSTRUCTIONS.md and the 10 heuristics table for contexts
+1137,P29,29,E,2,Real Time: screensharing,4,"then went to the application to show the AI all the features and use the features of the application by going through these workflow (e.g., browsed the event listing page, went to the event detail page (said there’re two Register now buttons to the AI), registered an events, etc.)"
+1138,P29,29,E,2,Real Time: screensharing,5,then she asked the AI to report the four problems for her by showing the REPORT2.md format (what items she needs to report for each usability problem)
+1139,P29,29,E,2,Real Time: screensharing,6,the AI gave her 4 problems and the corresponding heuristics that were violated
+1140,P29,29,E,2,Real Time: screensharing,7,"while found the 1st problem given by the AI and then reported the 1st problem in the table, she checked the application regarding the usability problem given by the AI to double-checked is correct, reported the 1st problem in the first row"
+1141,P29,29,E,2,Real Time: screensharing,8,the Real Time turned down due to the technical issues and she needed to go over the application’s workflow again to the AI and asked it to find the 4 usability problems again that she previously did
+1142,P29,29,E,2,Real Time: screensharing,9,"the AI reported the second problem (cancel an event without a confirmation dialog/popup), she checked the AI generated suggestions and filled out 2nd problem in the table"
+1143,P29,29,E,2,Real Time: screensharing,10,read through the AI suggested 3rd problem in details (from the transcription) and went back to the application to double-checked whether that usability issue makes sense
+1144,P29,29,E,2,Real Time: screensharing,11,asked the AI to give her the 4th problem and the AI responded with one but she said that the mentioned problem might not be counted as a usability problem because she think it’s very common
+1145,P29,29,E,2,Real Time: screensharing,12,she asked the AI to give her an additional usability problem
+1146,P29,29,E,2,Real Time: screensharing,13,the AI gave her another usability problem and she went back to the app to check whether the usability issue makes sense and she thinks it’s an usability issue
+1147,P29,29,E,2,Real Time: screensharing,14,reported the 4th problem in the table
+1148,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,1,"skimmed the INSTRUCTIONS.md file and followed the instructions to start the server, run the app, registered 2 events, opened and downloaded source code files"
+1149,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,2,opened the Code and Chat and uploaded the design mockup PDF and thinking of sharing the source code as prompts
+1150,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,3,"but after thinking a minute, she changed the mind that maybe the Real Time might be easier for the task 3"
+1151,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,4,"she shared the screen to the AI, then she showed the original My Registration page to the AI, and then went over the mockup design PDF as well as described the feature orally in details by going over each screen"
+1152,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,5,then she copied and pasted the .js and .css files to the AI and asked it suggest the code change for her
+1153,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,6,the AI gave her the line of code that she needed and she copied and pasted the code into the source file
+1154,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,7,"she asked the AI whether she did it correctly, the AI consistently said she didn’t do it correctly"
+1155,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,8,followed the same steps to add the additional suggested code change into the .js file and double-checked with the AI everytime
+1156,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,9,basically she asked the AI to guide her to implement the feature by adding every component step by step in the .js file
+1157,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,10,refreshed the My Registration page and found the registered events were gone
+1158,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,11,she switched back to the Code and Chat
+1159,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,12,copied and pasted the .js file to the AI as prompt and uploaded the PDF design mockup
+1160,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,13,double-checked with AI by asking what it made and what feature it implemented
+1161,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,14,refreshed the page and checked the update feature
+1162,P29,29,E,3,Code and Chat: file uploads and text prompts & Real Time: screensharing,15,tested the feature end-to-end by using the feature and checked back against the PDF wireframe design to make sure it works like the feature
+1163,P30,30,C,1,Code and Chat: text prompts,1,skimmed the INSTRUCTIONS.md and opened the Figma wireframe
+1164,P30,30,C,1,Code and Chat: text prompts,2,"copied and pasted the text contents from the first UI screen wireframe and the srs.md to the AI and asked the AI to find the problem, copied and pasted the second UI screen’s text content to the AI for more contexts to find the mismatch"
+1165,P30,30,C,1,Code and Chat: text prompts,3,copied and pasted the text contents for the last two screen from the Figma to the AI and asked it to find more mismatches
+1166,P30,30,C,1,Code and Chat: text prompts,4,copied and pasted the REPORT1.md file to ask the AI to fill out the problems found
+1167,P30,30,C,1,Code and Chat: text prompts,5,"after the AI generated the table, he copied and pasted each item in the row one by one into the table for each problem"
+1168,P30,30,C,1,Code and Chat: text prompts,6,"while filled out the rows, he messed up the format, he decided to copy and paste the REPORT1.md file to the AI again and asked it filled the table following the format and give him the code"
+1169,P30,30,C,2,Code and Chat: text prompts,1,skimmed the INSTRCTIONS.md file and followed the instructions to start the server and run the app
+1170,P30,30,C,2,Code and Chat: text prompts,2,copied and pasted the 10 heuristics table to the AI and described the example (in the REPORT2.md file) problem and two Register Now buttons in the event detail page to the AI regarding the heuristic violation
+1171,P30,30,C,2,Code and Chat: text prompts,3,"while recording the problems, he interacted with the app and used the features (e.g., browsed the event detail page, About and FAQ)"
+1172,P30,30,C,2,Code and Chat: text prompts,4,wrote down the third usability problem he thinks it might be (there is no Back button when clicked into the event detail page) to the AI
+1173,P30,30,C,2,Code and Chat: text prompts,5,went back to those three reported problems and marked them with which heuristics they are violating while checking the heuristics back and forth
+1174,P30,30,C,2,Code and Chat: text prompts,6,reported the last problem (with violating H8) of can’t register for more than 1 person for one event
+1175,P30,30,C,2,Code and Chat: text prompts,7,copied and pasted the REPORT2.md table format to the AI and asked it to fill out the problems found
+1176,P30,30,C,2,Code and Chat: text prompts,8,copied and pasted the table into the report
+1177,P30,30,C,3,Code and Chat: text prompts,1,"skimmed the INSTRUCTIONS.md file and followed the instructions to start the server, run the application, and registered events"
+1178,P30,30,C,3,Code and Chat: text prompts,2,searched the browser to ask how he can pass the content of the PDF (images inside) without allowing the images uploaded
+1179,P30,30,C,3,Code and Chat: text prompts,3,prompted the AI the Background section information from the INSTRUCTIONS.md and informed that he can’t upload the images and will provide the code later
+1180,P30,30,C,3,Code and Chat: text prompts,4,copied and pasted the MyRegistrationView.js and components.css to the AI and asked it to apply the change on the feature from the (Background info he passed before)
+1181,P30,30,C,3,Code and Chat: text prompts,5,copied and pasted the updated code to the files and registered an event to see the update
+1182,P30,30,C,3,Code and Chat: text prompts,6,he found it works without further checking or using the feature

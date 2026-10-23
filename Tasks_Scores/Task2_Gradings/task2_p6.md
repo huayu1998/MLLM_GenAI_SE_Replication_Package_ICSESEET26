@@ -1,0 +1,21 @@
+## Task 2 Report
+
+Find the UIs usability issues and report them in the following table.
+
+1. **Heuristic Violated** — the heuristic ID and name.
+2. **UI Element / Screen** — where you found it.
+3. **Issue Description** — one or two sentences on what's wrong and why it conflicts with that heuristic.
+4. **Proposed Redesign** — what you'd change to fix it.
+
+| #           | Heuristic Violated                                                                         | UI Element / Screen                                                  | Issue Description                                                                                                                                                                                | Proposed Redesign                                                                                                                                                      | Scored Rationale                                                                     | Score   |
+| ----------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------- |
+| **1** | **H8 — Aesthetic and Minimalist Design** *(also H4 — Consistency and Standards)* | Registration Page — Form Submission Actions                         | The page displays two duplicate "Register Now" buttons at the same time. Redundant UI elements increase visual clutter and create confusion about whether the buttons perform different actions. | Remove the duplicate button and maintain a single, clearly visible primary call-to-action button (e.g., at the bottom of the form step).                               | Key #5. UI Element: says Registration Page; the buttons are on Event Detail (−0.5). | 3.5 / 4 |
+| **2** | **H5 — Error Prevention**                                                           | Registration Flow — Step 2 (Preferences) / "Parking Needed *" field | The field is visually marked as mandatory (`*`), but lacks validation, allowing users to bypass it and proceed to the next step without selecting an option.                                   | Enforce client-side validation that disables the "Next" button or displays an inline error message if the user attempts to proceed without selecting a parking option. | Wrong claim: says Parking can be skipped, but the app validates it.                  | 0 / 4   |
+| 3           |                                                                                            |                                                                      |                                                                                                                                                                                                  |                                                                                                                                                                        | No issue reported.                                                                   | 0 / 4   |
+| 4           |                                                                                            |                                                                      |                                                                                                                                                                                                  |                                                                                                                                                                        | No issue reported.                                                                   | 0 / 4   |
+
+---
+
+**Task 2 grading summary**
+
+- Total score: **3.5 / 16**

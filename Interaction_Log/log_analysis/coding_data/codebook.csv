@@ -1,0 +1,54 @@
+code,category,theme_id,theme
+RI1,Read/skim INSTRUCTIONS.md,T01,Read Task Instructions
+RI2,Re-read INSTRUCTIONS.md for task details,T01,Read Task Instructions
+RI3,Read the Nielsen 10-heuristics table,T01,Read Task Instructions
+RI4,Read the REPORT.md template/example,T01,Read Task Instructions
+RA1,Read the SRS (srs.md),T02,Review Task Artifacts
+RA2,View the Figma wireframe,T02,Review Task Artifacts
+RA3,View the design mockup PDF,T02,Review Task Artifacts
+RA4,Open/browse the source code files,T02,Review Task Artifacts
+SU1,"Start the server, run the app, register seed events",T03,Set Up Workspace
+SU2,Split windows side by side,T03,Set Up Workspace
+SU3,"Prepare files/tools (download files, notepad, extra AI window)",T03,Set Up Workspace
+SU4,"Use external resources (web search, translator)",T03,Set Up Workspace
+EA1,Browse pages and use app features,T04,Explore Application
+EA2,"Probe edge cases (refresh, re-register, invalid input)",T04,Explore Application
+MI1,Compare SRS against wireframe by oneself,T05,Identify Problems Manually
+MI2,Walk through heuristics against the app by oneself,T05,Identify Problems Manually
+MI3,Spot a usability problem by oneself,T05,Identify Problems Manually
+MI4,Match a problem to a heuristic by oneself,T05,Identify Problems Manually
+MI5,Double-check own findings,T05,Identify Problems Manually
+PA1,Paste task materials into the AI as context,T06,Prompt AI via Text Chat
+PA2,Upload files/screenshots to the AI,T06,Prompt AI via Text Chat
+PA3,Share source code with the AI and request changes,T06,Prompt AI via Text Chat
+PA4,Feed self-found problems to the AI (to record/classify),T06,Prompt AI via Text Chat
+PA5,Ask the AI to find problems or build a checklist,T06,Prompt AI via Text Chat
+PA6,Ask the AI to write/format the report,T06,Prompt AI via Text Chat
+PA7,Describe the design/feature changes to the AI in text,T06,Prompt AI via Text Chat
+PA8,"Ask the AI for explanation, guidance, or confirmation",T06,Prompt AI via Text Chat
+PA9,"Manage the chat session (new, lost, or closed chat)",T06,Prompt AI via Text Chat
+RT1,Start Real Time voice/screen sharing,T07,Interact via Real Time
+RT2,Show materials or the app to the AI on screen,T07,Interact via Real Time
+RT3,Ask the AI by voice to spot problems,T07,Interact via Real Time
+RT4,Have the AI dictate report content or code by voice,T07,Interact via Real Time
+RT5,"Troubleshoot Real Time (re-share, restart, wrong language)",T07,Interact via Real Time
+RT6,Pause/resume the live session,T07,Interact via Real Time
+RT7,Switch between Real Time and Code and Chat,T07,Interact via Real Time
+RR1,Read or wait for the AI response,T08,Review AI Response
+RR2,"Verify, question, or reject AI output",T08,Review AI Response
+RR3,Receive AI-identified problems,T08,Review AI Response
+WC1,Paste AI-generated code into the source files,T09,Write & Integrate Code
+WC2,"Edit, debug, or revert code by oneself",T09,Write & Integrate Code
+WC3,Commit/push changes,T09,Write & Integrate Code
+TV1,Refresh the page and check the feature,T10,Test & Verify Implementation
+TV2,Compare the implementation with the mockup,T10,Test & Verify Implementation
+TV3,Test the feature end-to-end,T10,Test & Verify Implementation
+TV4,Encounter a broken result,T10,Test & Verify Implementation
+TV5,Inspect elements with browser dev tools,T10,Test & Verify Implementation
+WR1,Type report content by oneself,T11,Write Problem Report
+WR2,Paste AI-generated report content,T11,Write Problem Report
+WR3,Fix the report's markdown formatting,T11,Write Problem Report
+WR4,Review the finished report,T11,Write Problem Report
+EX1,Ask the experimenter a question,T12,Misc.
+EX2,Run out of time / end the task,T12,Misc.
+EX3,Reflect on or plan AI use (think-aloud),T12,Misc.

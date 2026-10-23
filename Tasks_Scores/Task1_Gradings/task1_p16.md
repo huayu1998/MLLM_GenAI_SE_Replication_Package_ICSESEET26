@@ -1,0 +1,23 @@
+## Task 1 Report
+
+Find the requirement issues and report them in the following table.
+
+1. **Requirement Violated** — the SRS requirement ID (if any) in the **Functional Requirements** **(§2.3)** and elements that the wireframe fails to satisfy.
+2. **Problem Type** — type of problems for the violated design, including inconsistent design, missing functionality, and unclear/ambiguous design.
+3. **Screen & UI Element** — which and what you found it in the wireframe.
+4. **Issue Description** — one or two sentences on what's wrong and why it conflicts with the requirement.
+5. **User Workflow Impact** — how this affects the user, judged against the **Use Case (§2.1)** and the **User Stories (§2.2)**. Name the affected UC step or User Story (if any) and a brief note on how it affects the user's workflow.
+
+| #       | Requirement Violated          | Problem Type                             | Screen & UI Element                                                         | Issue Description                                                                                                              | User Workflow Impact<br />(vs. UC/US)                                                                                                                   | Scored Rationale                                                                                 | Score   |
+| ------- | ----------------------------- | ---------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------- |
+| Example | **R6** - Step 1 Fields  | Unclear/ambiguous design                 | **Screen 3** Registration form - Email Address and Phone Number field | "Name" is marked "* required," but "Email Address" is not marked "* required," and "Phone Number" is not labeled "(optional)." | **UC step 3 / US3**: user can't tell email is required until submission fails, and may assume phone is mandatory since nothing marks it optional. | Given example (not graded)                                                                       | —      |
+| 1       | 2.2 User Story - User Story 2 | Register Now still showing when Sold Out | Screen 2B - Register Now button                                             | Button still showing up as Register Now when it should be replaced by a disabled "Registration Closed" button.                 | UC 01 - Step 2 - User may fill out registration form even though event is sold out                                                                      | Key #2. Problem Type: describes the issue, not a problem type (−0.5).                           | 4.5 / 5 |
+| 2       | 2.2 User Story - User Story 2 | Price Shown is different                 | Screen 2B - Price Mismatch                                                  | The price shown on the event detail page is not the same as the price shown on the event listing page.                         | UC-01 Step 2 - When registering for the event later, the user will pay more than they should.                                                           | Key #3. Screen: cites Screen 2B; the mismatch is Screen 1 vs 2A (Urban Garden Workshop) (−0.5). | 4.5 / 5 |
+| 3       | 2.2 User Story - User Story 3 | Preferences Page                         | Screen 3 - Only 2 steps                                                     | There is no preferences page on the registration form, and only 2 steps total.                                                 | This is an issue because there are no preferences for each event, there is only a page that sends your personal info.                                   | Key #5. Problem Type: not a problem type (−1); Impact: no UC step/US cited (−0.5).             | 3.5 / 5 |
+| 4       | 2.2 User Story - User Story 4 | No FAQ link                              | Screens 1, 2A, 2B, and 3                                                    | There is no FAQ link on each screen.                                                                                           | Violates R9 - There should be a link that takes the user to a page that answers questions about browsing, registering, and managing registrations.      | Key #6. Screen: no UI element named (−0.5).                                                     | 4.5 / 5 |
+
+---
+
+**Task 1 grading summary**
+
+- Total score: **17 / 20**

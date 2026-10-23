@@ -1,0 +1,22 @@
+## Task 1 Report
+
+Find the requirement issues and report them in the following table.
+
+1. **Requirement Violated** — the SRS requirement ID (if any) in the **Functional Requirements** **(§2.3)** and elements that the wireframe fails to satisfy.
+2. **Problem Type** — type of problems for the violated design, including inconsistent design, missing functionality, and unclear/ambiguous design.
+3. **Screen & UI Element** — which and what you found it in the wireframe.
+4. **Issue Description** — one or two sentences on what's wrong and why it conflicts with the requirement.
+5. **User Workflow Impact** — how this affects the user, judged against the **Use Case (§2.1)** and the **User Stories (§2.2)**. Name the affected UC step or User Story (if any) and a brief note on how it affects the user's workflow.
+
+| #           | Requirement Violated                        | Problem Type                              | Screen & UI Element                                                   | Issue Description                                                                                                      | User Workflow Impact<br />(vs. UC/US)                                                                                                                                      | Scored Rationale                                                                                                             | Score |
+| ----------- | ------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----- |
+| **1** | **R9 / US4** - FAQ and Help           | Missing element                           | **Global (All screens)** — Header / Navigation bar             | No visible "FAQ" or "Help" link/button is present on the screens.                                                      | **US4**: Users seeking answers to basic questions about browsing, registering, or managing registrations cannot access help without leaving the app.                 | Key #6. No deductions.                                                                                                       | 5 / 5 |
+| **2** | **R3 / US1** - Search and Filter      | Missing element                           | **Screen 1 (Event Listing Page)** — Search & Filter controls   | The text search input field for keyword searching is missing from the listing controls.                                | **UC step 1 / US1**: Users cannot search for specific events by keywords, making it difficult to quickly find relevant events among the listings.                    | Key #1. No deductions.                                                                                                       | 5 / 5 |
+| **3** | **US2 / R4** - Sold Out State         | Incorrect UI logic / Non-functional state | **Screen 2 (Event Detail Page)** — Primary CTA Button          | For a sold-out event, the button is not disabled with a "Registration Closed" state and still allows user interaction. | **UC step 2 / US2**: Users can attempt to register for events that have no capacity left, causing confusion and wasted effort when registration cannot be fulfilled. | Key #2. Problem Type: "Incorrect UI logic / Non-functional state" is not Missing functionality or Inconsistent design (−1). | 4 / 5 |
+| **4** | **R6 / US3** - Step 1 Fields Labeling | Incomplete / Unclear labeling             | **Screen 3 (Registration Flow)** — Step 1 (Phone Number field) | The Phone Number field is missing the explicit `(optional)` label.                                                   | **UC step 3 / US3**: Users cannot clearly tell that the phone number is not mandatory, which may cause hesitation or prevent them from continuing the form.          | Restates the given example (R6 field labels), so no credit.                                                                  | 0 / 5 |
+
+---
+
+**Task 1 grading summary**
+
+- Total score: **14 / 20**

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EventConnect</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <header class="nav-bar">
+    <a href="#/" class="nav-brand">Event<span>Connect</span></a>
+    <nav aria-label="Primary navigation">
+      <ul class="nav-links">
+        <li><a href="#/">Browse Events</a></li>
+        <li><a href="#/my-registrations">My Registrations</a></li>
+        <li><a href="#/about">About</a></li>
+        <li><a href="#/faq">FAQ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div id="main-content"></div>
+
+  <footer class="site-footer">
+    <span>&copy; 2026 EventConnect</span>
+    <nav class="footer-links">
+      <a href="#/faq" class="footer-faq">
+        <span class="footer-faq-icon" aria-hidden="true">?</span>FAQ &amp; Help
+      </a>
+    </nav>
+  </footer>
+
+  <!-- Classic (non-module) scripts, loaded in dependency order and attached
+       to a shared EC namespace — ES modules (import/export) are blocked by
+       browsers when opening this file directly via file://, so this app
+       avoids them entirely to work with zero server. -->
+  <script>window.EC = {};</script>
+  <script src="js/data/seedEvents.js"></script>
+  <script src="js/models/EventModel.js"></script>
+  <script src="js/models/RegistrationModel.js"></script>
+  <script src="js/services/EventStore.js"></script>
+  <script src="js/services/RegistrationStore.js"></script>
+  <script src="js/Router.js"></script>
+  <script src="js/views/EventListView.js"></script>
+  <script src="js/views/EventDetailView.js"></script>
+  <script src="js/views/RegistrationFlowView.js"></script>
+  <script src="js/views/ConfirmationView.js"></script>
+  <script src="js/views/NotFoundView.js"></script>
+  <script src="js/views/MyRegistrationsView.js"></script>
+  <script src="js/views/AboutView.js"></script>
+  <script src="js/views/FaqView.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>

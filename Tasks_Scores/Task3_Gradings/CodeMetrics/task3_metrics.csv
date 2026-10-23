@@ -1,0 +1,31 @@
+participant,group,task3_commit_time,js_added,js_deleted,css_added,css_deleted,total_added,total_deleted,net_loc,js_final_loc,js_final_sloc,css_final_loc,css_final_sloc,new_inline_styles_in_js,other_files_changed,new_methods,js_chars,flags,features_detected,f_per_card_checkbox,f_select_all,f_selected_count_label,f_registration_count,f_indeterminate_state,f_clear_button,f_cancel_selected_btn,f_confirm_prompt,f_keep_them_btn,f_yes_cancel_btn,f_bulk_delete,f_selected_card_style,f_singular_plural,f_empty_state_after,f_sticky_bar
+P1,E,2026-08-20 23:19:59 +0000,150,10,114,14,264,24,240,266,223,528,466,14,,1,10729,,12,True,True,True,False,False,True,True,True,True,True,True,True,True,False,True
+P2,C,2026-08-23 15:31:01 +0000,190,10,133,7,323,17,306,306,260,554,488,2,,3,11054,,13,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True
+P3,E,2026-08-23 19:47:19 +0000,18,0,9,0,27,0,27,144,121,437,378,0,,0,5445,very small change,2,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+P4,C,,174,13,0,0,174,13,161,287,237,428,372,17,,2,11055,,12,True,True,True,False,True,True,False,True,True,True,True,True,True,False,True
+P5,E,2026-09-01 20:22:09 +0000,146,10,143,6,289,16,273,262,219,565,501,0,,2,9315,,12,True,True,True,False,False,True,True,True,True,True,True,True,True,False,True
+P6,C,2026-08-26 15:09:25 +0000,165,11,118,2,283,13,270,280,238,544,483,0,,2,10101,,12,True,True,True,False,False,True,True,True,True,True,True,True,True,False,True
+P7,E,2026-09-03 15:31:24 +0000,165,13,121,0,286,13,273,278,240,549,473,0,,1,9722,,13,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True
+P8,C,2026-09-05 19:35:06 +0000,95,7,43,413,138,420,-282,214,177,58,53,0,,0,8192,"CSS mostly overwritten (413 lines deleted, tip=58 lines)",7,True,True,False,False,False,False,False,True,True,True,True,False,True,False,False
+P9,E,2026-09-06 15:31:01 +0000,150,10,153,5,303,15,288,266,218,576,498,0,,1,10070,,13,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True
+P10,C,2026-09-07 16:38:13 +0000,93,8,1,0,94,8,86,211,173,429,372,4,,0,7795,,7,True,True,True,False,True,False,True,True,False,False,True,False,False,False,False
+P11,E,2026-09-07 18:52:42 +0000,87,4,15,6,102,10,92,209,177,437,382,0,,0,7554,,7,True,True,True,False,True,False,True,True,False,False,True,False,False,False,False
+P12,C,2026-09-08 15:32:26 +0000,138,3,89,2,227,5,222,261,222,515,456,0,,0,9437,,13,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True
+P13,E,2026-09-08 20:20:26 +0000,140,1,135,0,275,1,274,265,215,563,487,0,,3,9266,,13,True,True,True,True,False,True,True,True,True,True,True,True,True,False,True
+P14,C,2026-09-09 15:02:24 +0000,203,16,152,11,355,27,328,313,258,569,494,1,,1,11865,,12,True,True,True,False,True,True,True,True,True,True,True,True,True,False,False
+P15,E,2026-09-09 20:32:52 +0000,170,9,143,10,313,19,294,287,237,561,499,13,,2,10434,,11,True,True,True,False,False,True,True,True,True,True,True,True,True,False,False
+P16,C,2026-09-15 19:57:29 +0000,196,10,182,5,378,15,363,312,263,605,540,0,,3,10959,,13,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True
+P17,E,2026-09-19 15:15:03 +0000,147,9,118,412,265,421,-156,264,229,134,131,0,,1,9327,"CSS mostly overwritten (412 lines deleted, tip=134 lines)",11,True,True,True,False,False,True,True,True,True,True,True,True,True,False,False
+P18,C,2026-09-18 16:34:45 +0000,171,20,148,0,319,20,299,277,233,576,507,1,,3,9826,,13,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True
+P19,E,2026-09-16 20:51:00 +0000,151,9,240,5,391,14,377,268,227,663,597,0,,1,9398,,13,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True
+P20,C,2026-09-23 18:05:25 +0000,198,23,206,8,404,31,373,301,249,626,560,0,,6,10542,,13,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True
+P21,E,2026-09-24 20:32:55 +0000,98,62,1,0,99,62,37,162,133,429,372,4,,0,5703,,3,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False
+P22,C,2026-09-27 18:14:24 -0400,135,9,110,3,245,12,233,252,215,535,469,1,,1,8975,,10,True,True,False,False,False,True,False,True,True,True,True,True,True,False,True
+P23,E,2026-09-27 20:24:39 +0000,186,9,157,0,343,9,334,303,254,585,508,0,,4,10331,,13,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True
+P24,C,2026-10-01 16:18:47 +0000,141,21,93,0,234,21,213,246,205,521,461,1,,1,9301,,9,True,True,True,False,True,True,True,False,False,False,True,True,True,False,False
+P25,E,2026-10-03 15:13:30 +0000,1,126,1,0,2,126,-124,1,1,429,373,2,,-6,6544,JS collapsed to 1 line (LOC unreliable); very small change,12,True,True,True,False,False,True,True,True,True,True,True,True,True,False,True
+P26,C,2026-10-04 20:19:56 +0000,86,8,38,2,124,10,114,204,171,464,408,1,,1,7353,,8,True,True,True,True,True,False,True,False,False,False,True,False,True,False,False
+P27,E,2026-10-06 22:16:43 +0000,152,13,169,17,321,30,291,265,222,580,523,0,eventconnect/task3/app_task3/label;eventconnect/task3/app_task3/strong,2,9554,,13,True,True,True,False,True,True,True,True,True,True,True,True,True,False,True
+P28,C,,133,9,110,410,243,419,-176,250,213,128,120,0,,1,8796,"CSS mostly overwritten (410 lines deleted, tip=128 lines)",11,True,True,True,False,False,True,True,True,True,True,True,True,True,False,False
+P29,E,2026-10-08 20:34:16 +0000,160,38,0,0,160,38,122,248,209,428,372,13,,1,9921,,12,True,True,True,True,False,True,True,True,True,True,True,True,True,False,False
+P30,C,,117,9,58,415,175,424,-249,234,197,71,69,0,,0,8398,"CSS mostly overwritten (415 lines deleted, tip=71 lines)",7,True,True,True,False,True,False,True,False,False,False,True,True,False,False,False

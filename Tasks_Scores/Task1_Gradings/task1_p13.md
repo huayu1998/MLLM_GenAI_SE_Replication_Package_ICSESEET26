@@ -1,0 +1,23 @@
+## Task 1 Report
+
+Find the requirement issues and report them in the following table.
+
+1. **Requirement Violated** — the SRS requirement ID (if any) in the **Functional Requirements** **(§2.3)** and elements that the wireframe fails to satisfy.
+2. **Problem Type** — type of problems for the violated design, including inconsistent design, missing functionality, and unclear/ambiguous design.
+3. **Screen & UI Element** — which and what you found it in the wireframe.
+4. **Issue Description** — one or two sentences on what's wrong and why it conflicts with the requirement.
+5. **User Workflow Impact** — how this affects the user, judged against the **Use Case (§2.1)** and the **User Stories (§2.2)**. Name the affected UC step or User Story (if any) and a brief note on how it affects the user's workflow.
+
+| #       | Requirement Violated         | Problem Type             | Screen & UI Element                                                         | Issue Description                                                                                                              | User Workflow Impact<br />(vs. UC/US)                                                                                                                     | Scored Rationale                                                                                 | Score   |
+| ------- | ---------------------------- | ------------------------ | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------- |
+| Example | **R6** - Step 1 Fields | Unclear/ambiguous design | **Screen 3** Registration form - Email Address and Phone Number field | "Name" is marked "* required," but "Email Address" is not marked "* required," and "Phone Number" is not labeled "(optional)." | **UC step 3 / US3**: user can't tell email is required until submission fails, and may assume phone is mandatory since nothing marks it optional.   | Given example (not graded)                                                                       | —      |
+| 1       | R    3                       | Not displayed            | Screen 1 & Text Search field along with filter controls.                    | The SRS requires search and filter to be on the event listing page but is completely omitted.                                  | US1: user won't be able to search and filter by any events they're interested in and will have to use a less intuitive drop-down menu in order to filter. | Key #1. Description: says search and filter are both omitted, but filter controls exist (−0.5). | 4.5 / 5 |
+| 2       | R9                           | Missing element          | Screen 2 FAQ & and Help                                                     | The SRS requires that a FAQ & Help page is displayed on every screen, yet it isn't on this screen                              | US4: Won't be able to find answers to commonly-asked questions because of the page being omitted.                                                         | Key #6. No deductions.                                                                          | 5 / 5   |
+| 3       | R1                           |                          |                                                                             |                                                                                                                                |                                                                                                                                                           | Incomplete row (only a requirement ID); no issue identified.                                     | 0 / 5   |
+| 4       |                              |                          |                                                                             |                                                                                                                                |                                                                                                                                                           | No issue reported.                                                                               | 0 / 5   |
+
+---
+
+**Task 1 grading summary**
+
+- Total score: **9.5 / 20**
